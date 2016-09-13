@@ -1,0 +1,86 @@
+/**
+*/
+
+// New variables
+// -------------
+$apple-wwdc-color: rgb(44, 47, 62);
+$apple-text-color-cyan: rgb(54, 177, 172);
+$apple-text-color-green: rgb(113, 176, 117);
+$apple-text-color-orange: rgb(212, 152, 102);
+$apple-text-color-red: rgb(218, 77, 69);
+$apple-text-color-green-light: rgb(160, 204, 124);
+
+// Change navbar defaults
+// ----------------------
+
+$navbar-default-bg: $apple-wwdc-color;
+$navbar-default-brand-color: white;
+
+@import "bootstrap";
+
+// Use Bootstrap variable to compute new stuff
+// -------------------------------------------
+
+$body-padding-top: $navbar-height * 2;
+
+
+body {
+  background-color: rgb(44, 47, 62);
+  margin: 0 auto;
+  max-width: 60em;
+  font-family: "Hack";
+  line-height: 1.5;
+  padding: $body-padding-top 1em;
+  color: #fff;
+}
+
+h1 {
+  color: $apple-text-color-cyan;
+}
+
+h2 {
+  color: $apple-text-color-cyan;
+}
+
+h1, h2, h3 {
+  margin-top: 1em;
+  padding-top: 1em;
+}
+
+code,
+pre {
+  background: #f5f7f9;
+  border-bottom: 1px solid #d8dee9;
+  color: #a7adba;
+}
+
+code {
+  padding: 2px 4px;
+  vertical-align: text-bottom;
+}
+
+pre {
+  padding: 1em;
+  border-left: 2px solid #69c;
+}
+
+a {
+  color: $apple-text-color-green;
+}
+
+#main {
+  li {
+    margin-bottom: ($line-height-computed / 2);
+  }
+}
+
+#profile-picture {
+  height: 10em;
+}
+
+a.anchor {
+  display: block;
+  position: relative;
+  top: -$navbar-height;
+  visibility: hidden;
+}
