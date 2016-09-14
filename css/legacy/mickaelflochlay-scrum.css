@@ -21,14 +21,14 @@
 }
 
 .scrumsprintbacklog {
-	width: 31.081%;	
+	width: 31.081%;
 	float: left;
 	margin-left: 3.378%;
 }
-  
+
 .scrumsprintdonetasks {
 	width: 31.081%;
-	float: right; 
+	float: right;
 }
 
 .userstory {
@@ -38,15 +38,15 @@
 	word-wrap: break-word;
 	text-align: center;
 	vertical-align: middle;
-	font-family: "Casual", "Comic Sans MS";
+	font-family: 'Gloria Hallelujah', cursive;
 	font-size: 1.2em;
-	background: url("img/postit.jpg");
+	background: url("/assets/images/postit.jpg");
 }
 
 .scrumproductbacklog .userstory {
-	background: url("img/postit-blue.png");	
+	background: url("/assets/images/postit-blue.png");
 }
 
 .scrumsprintdonetasks .userstory {
-	background: url("img/postit-orange.png");	
+	background: url("/assets/images/postit-orange.png");
 }

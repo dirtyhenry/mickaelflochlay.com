@@ -11,7 +11,7 @@
 
 .content .main { width: 65.924%; float: left; }
 .content .meta { width: 31.849%; float: right; }
- 
+
 .entry .main .left-subsection { width: 13.851%; float: left; }
 .entry .main .right-subsection { width: 82.770%; float: right; }
 
@@ -20,7 +20,7 @@
 /** FLUID IMAGES */
 
 img, object { border: none; max-width: 100%; height: auto; }
- 
+
 /** UTILS */
 
 .nettoyeur { clear: both; }
@@ -28,7 +28,7 @@ img, object { border: none; max-width: 100%; height: auto; }
 
 /** BACKGROUND */
 
-body { background-image: url(img/background.jpg); background-repeat: repeat-x; background-position: top; }
+body { background-image: url(/assets/images/background.jpg); background-repeat: repeat-x; background-position: top; }
 
 /** TYPO AND COLORS */
 body { font: normal 100%/1.375 Lucida Grande, Calibri, sans, sans-serif; }
