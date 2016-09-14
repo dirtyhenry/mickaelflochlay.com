@@ -9,6 +9,7 @@
 
   {% assign custom_url = site.url | append: site.baseurl %}
   {% assign full_base_url = custom_url | default: site.github.url %}
+  <link rel="stylesheet" href="{{ "/vendor/assets/css/font-awesome.min.css" | prepend: full_base_url }}">
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: full_base_url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: full_base_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | prepend: full_base_url }}">
@@ -20,7 +21,10 @@
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
   <!-- Place favicon.ico in the root directory -->
 </head>
-<body>
+<body data-spy="scroll" data-target="#bs-example-navbar-collapse-1" data-offset="500">
   {{ content }}
+
+  <script src="{{ '/vendor/assets/javascripts/jquery.min.js' | prepend: site.baseurl }}"></script>
+  <script src="{{ '/vendor/assets/javascripts/bootstrap.min.js' | prepend: site.baseurl }}"></script>
 </body>
 </html>

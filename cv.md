@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: TODO
+title: CV développeur iOS Mickaël Floc'hlay
 description: TODO
 lang: fr
 ---
@@ -59,7 +59,7 @@ Me contacter :
 
 ## Expériences
 
-### CEO/CTO Bootstragram <small>depuis septembre ’14</small>
+### CEO/CTO [Bootstragram][bootstragram] <small>depuis septembre ’14</small>
 
 J'ai co-fondé Bootstragram (SAS) afin d'y développer [Statium][statium] — un
 agenda intelligent pour les fans de football — et j'y exerce également en tant
@@ -71,21 +71,34 @@ aspects non techniques du développement d'une lean startup.
 
 En prestation de services, j'ai réalisé les projets suivants :
 
-*   Recommandation de playlist automatique pour [Deezer][deezer] via
-    [Sourdoreille][sourdoreille], sous forme de widget Facebook.
-*   Assistance technique à [Tabaramounien][tabaramounien] sur des projets
-    interactifs pour la semaine du numérique de la mairie de Bordeaux : une app
-    permettait aux visiteurs de créer sur une base aléatoire, customiser et
-    imprimer un design de l'identité.
+*   [Deezer][deezer]/[Sourdoreille][sourdoreille] : recommandation de playlist
+    automatique sous forme de widget Facebook
+*   [Tabaramounien][tabaramounien] : assistance technique sur des projets
+    interactifs pour la semaine du numérique de la mairie de Bordeaux
+*   [Tabaramounien][tabaramounien]/[N/ËW][newschool] : création d'un éditeur de
+    diaporama en SVG à destination des élèves de l'école
+*   [*Petites Musiques de Trains*][trains] : réalisation du site web et de
+    l'application iOS de cette web-série de voyages    
+*   [Culturebox][culturebox]/[Sourdoreille][sourdoreille] : réalisation du site
+    pour la web-série de concerts [*Les Contes du Paris Perché*][parisperche]
+*   [Sourdoreille][sourdoreille] : réalisation du site web de sondage décalé
+    [*Les Concerts, ce serait mieux sans*][concerts]
 
-### CTO eduPad <small>janvier ’12 / août ’14</small>
+### CTO [eduPad][eduPad] <small>janvier ’12 / août ’14</small>
 
-* Recrutement et mise en place des process de l'équipe technique
-* Développement et architecture de la solution iTooch (clients iOS & Android, back-office Rails)
+Après avoir réalisé quelques missions en freelance, eduPad m'a recruté pour recruter et
+manager l'équipe de développement de la société, constituée de 3 à 4 personnes.
 
-### Freelance <small>juin ’10 / janvier ’12</small>
+* Recrutement et mise en place des process de l'équipe technique, que je manageais selon
+  des principes inspirés des méthodes agiles et de scrum en particulier
+* Outillage pour l'industrialisation des apps de la société (plus de 50 titres par plateforme : iOS et Android)
+* Design et implémentation d'un back-office permettant la scalabilité de l'application, qui est passée
+  de 5 000 à 250 000 downloads mensuels en moyenne
+* Environ 8 400 000 downloads lors de mon passage dans la société
 
-* Développement de logiciels pour iOS (iPhone et iPad) et Mac OS X
+### Freelance <small>juin ’10 / janvier ’12</small>
+
+* Développement de logiciels pour iOS et Mac OS X
 * Développement de services et applications web
 * Consultant en informatique avec expertise en méthodes agiles (Lean, Scrum) et en mobilité
 * Mes références clients :
@@ -93,33 +106,34 @@ En prestation de services, j'ai réalisé les projets suivants :
     *   [X-Prime][xprime] : conseil iOS
     *   [eduPad][eduPad] : conseil et développement iOS sur la suite logicielle iTooch
     *   [Scimob][scimob] : conseil et développement iOS sur les applications Adele et Tymob
-    *   [Picapoc][picapoc] : conseil et développement iOS
+    *   Picapoc : conseil et développement iOS
 
-### Chef de projet Innovation <small>avril ’09 / juin ’10</small>
+### Chef de projet Innovation [Capgemini][capgemini] <small>avril ’09 / juin ’10</small>
 
- et Applications Mobiles iOS, Android et BlackBerry
+Au sein de Capgemini Telecom Media Défense :
 
-**Capgemini Telecom Media Défense**
-
-* Identification, qualification et test de services mobiles innovants pour l'*Orange Trial Factory* (géolocalisation, services communautaires, etc.) pour Orange
-* Conception et réalisation d'applications iOS (iPhone et iPad), Android et BlackBerry pour Orange, Lyonnaise des Eaux, Natixis et le groupe Capgemini
+* Identification, qualification et test de services mobiles innovants pour
+  l'*Orange Trial Factory* (géolocalisation, services communautaires, etc.)
+  pour Orange
+* Conception et réalisation d'applications iOS (iPhone et iPad), Android et
+  BlackBerry pour Orange, Lyonnaise des Eaux, Natixis et le groupe Capgemini
 * Encadrement d'une équipe de 2 à 6 personnes
 * Suivi budgétaire de tous ces projets
-* Références publiques :
+* Références iOS publiques :
     * [myCashMgmt][myCashMgmt] (pour Natixis)
     * Transform TV (pour Capgemini Consulting)
 
-### Consultant Technique Java <small>décembre ’08 / avril ’09</small>
+### Consultant Technique Java [Capgemini][capgemini] <small>décembre ’08 / avril ’09</small>
 
-**Capgemini Telecom Media Défense**
+Au sein de Capgemini Telecom Media Défense :
 
-* Audit de code et de méthodes projet
+* Audit de code et de méthodes projet en interne
 * Mise en place de pratiques agiles sur projets (intégration continue et
   formation des équipes à la philosophie agile)
 
-### Responsable Technique Java <small>décembre ’05 / décembre ’08</small>
+### Responsable Technique Java [Canal+][cplus]/[Capgemini][capgemini] <small>décembre ’05 / décembre ’08</small>
 
-**Capgemini Telecom Media Défense**
+En forfait, puis en régie au sein de Canal+ :
 
 *   Le projet Droits et Terminaux comprenait la conception, la réalisation
     *from scratch* du système de gestion des droits des abonnés Canal+, tout
@@ -131,15 +145,13 @@ En prestation de services, j'ai réalisé les projets suivants :
     conception et rédaction des évolutions de l'application, et l'encadrement
     d'une équipe de 5 développeurs dans une organisation de type Scrum
 
-### Développeur Java <small>janvier ’05 / décembre ’05</small>
+### Développeur Java [Capgemini][capgemini] <small>janvier ’05 / décembre ’05</small>
 
-**Capgemini Telecom Media Défense**
+Au sein de Capgemini Telecom Media Défense :
 
 * Conception et développement Java sur des projets orientés télécom pour SFR, Bouygues et Comverse
 
-### Développeur C++ 3D <small>février ’04 / septembre ’04</small>
-
-**TGS (racheté depuis par Visualization Sciences Group)**
+### Développeur C++ 3D [TGS][tgs] <small>février ’04 / septembre ’04</small>
 
 * Stage de fin d'étude
 * Intégration du langage de programmation GPU GLSL dans Open Inventor
@@ -154,39 +166,44 @@ En prestation de services, j'ai réalisé les projets suivants :
 
 ### Gestion de projet et méthodes agiles
 
-Scrum Master certifié
-
+* Scrum Master certifié
 * Gestion de planning, de budget et de suivi financier
 * Mise en place et animation des outils types des méthodes agiles (gestion de
-  version, intégration continue, management visuel)
+  version, intégration continue, mise en place de dashboards de pilotage)
 * Encadrement d'équipes jusqu'à 6 personnes
 
-### Programmation Objet
+### Programmation Full-stack Web & Mobile
 
-**Objective-C/Swift, Ruby (on Rails), Ember**
-
-* Expertise du monde iOS et de son environnement de développement
-* Maîtrise du monde Ruby et du framework Ruby on Rails
-* Base de données (PostgresQL, MySQL, SQLite), applications connectées (JSON)
-* Environnements mobiles iPhone OS, Android, Pebble
-* Environnements de bureau Mac OS X, Ubuntu
-
-### Développement Web
-
-**HTML5, CSS3, JavaScript**
-
-* Maîtrise de la librairie de visualisation de données D3.js
+* Expertise iOS
+  * Développement d'applications en Objective-C et Swift
+  * Maîtrise des outils d'industrialisation : cocoapods, fastlane, intégration continue, etc.
+  * Expérience des frameworks principaux pour gérer les in-app purchases, la géolocalisation,
+    les notifications, etc.
+* Expertise Ruby et Rails
+  * Développement et design de back-office
+  * Développement et design d'API
+  * Base de données PostgresQL
+  * Expérience des outils de production : Heroku, New Relic, Docker, intégration
+    continue, etc.  
+* Maîtrise de JavaScript et des environnements et frameworks Node.js,
+  Ember.js, D3.js, CoffeeScript, etc.
+* Quelques outils de prédilection : Jekyll, GitHub, Fastmail, Amazon S3, Sass, etc.
 
 ### Webdesign
 
-**Photoshop**
+Sans être graphiste ou designer, j'ai une bonne connaissance de logiciels tels
+que Photoshop, Pixelmator, Graphics, Sketch qui me permettent d'être autonome
+pour exporter ou reproduire logiciellement le contenu de fichiers sources livrés
+par des graphistes.
+Je peux aussi décliner convenablement des chartes graphiques existantes.
+
+Bonne connaissance des règles de la typographie, sur écran et papier.
 
 ### Langues
 
-**Anglais, Espagnol**
-
-* Anglais : courant, environnement familial anglophone, 925 points au TOEIC et
-  610 points au TOEFL en janvier 2003
+* Anglais : courant (environnement familial anglophone)
+  * 925 points au TOEIC et
+  * 610 points au TOEFL en janvier 2003
 * Espagnol : niveau scolaire
 
 ---
@@ -195,11 +212,12 @@ Scrum Master certifié
 
 ## Formation
 
-### ENSEIRB
+### Ingénieur en informatique [ENSEIRB][ENSEIRB]
 
 **Ecole Nationale Supérieure d'Electronique, Informatique et Radiocommunications de Bordeaux, 2001-2004**
 
-* Diplôme obtenu avec mention Très Bien, spécialisation Multimédia
+* Diplôme obtenu avec mention Très Bien
+* Spécialisation Multimédia
 
 ### Classes Préparatoires MP (Maths et Physique)
 
@@ -213,16 +231,22 @@ Scrum Master certifié
 
 ### Musique
 
-* Créateur et rédacteur du site de chroniques et diffusions culturelles [Dead Rooster][dr]
+* Créateur et rédacteur du site de chroniques culturelles [Dead Rooster][dr]
 * Pratique de la guitare, de la basse
 * Leader et compositeur de plusieurs projets musicaux
 * Notions de production d'enregistrements
 
 ### Sport
 
-* Football
-* Cyclisme
+* Football, pratique du foot à 5
+* Cyclisme, déplacements quotidiens et voyages
 * Running
+
+### Autres
+
+* Organisation de quiz de culture générale et de blind-test dans des bars
+* Fan de cours de cuisine
+* Aspirant brasseur de bière amateur
 
 ---
 
@@ -230,8 +254,17 @@ Scrum Master certifié
 
 ## Contact
 
-TODO
+<div class="btn-group" role="group" aria-label="...">
+  <a href="javascript:window.location.href=atob('bWFpbHRvOm1pY2thZWxAZmxvY2hsYXkuY29tP3N1YmplY3Q9UHJpc2UgZGUgY29udGFjdCZib2R5PUplIHZldXggdHJhdmFpbGxlciBhdmVjIHZvdXMgOik=')" type="button" class="btn btn-default"><i class="fa fa-envelope" aria-hidden="true"></i> Email</a>
+  <a href="tel:33688597286" type="button" class="btn btn-default"><i class="fa fa-phone" aria-hidden="true"></i> Téléphone</a>
+  <a href="https://fr.linkedin.com/in/mickaelflochlay" type="button" class="btn btn-default"><i class="fa fa-linkedin" aria-hidden="true"></i> LinkedIn</a>
+  <a href="https://twitter.com/dirtyhenry" type="button" class="btn btn-default"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter</a>
+  <a href="https://github.com/dirtyhenry" type="button" class="btn btn-default"><i class="fa fa-github" aria-hidden="true"></i> GitHub</a>
+  <a href="http://stackoverflow.com/users/455016/dirty-henry?tab=profile" type="button" class="btn btn-default"><i class="fa fa-stack-overflow" aria-hidden="true"></i> Stack Overflow</a>
+</div>
 
+
+[bootstragram]: http://bootstragram.com
 [profile-picture]: /assets/images/cv-photo.png
 [deezer]: http://deezer.com
 [tabaramounien]: http://tabaramounien.com
@@ -239,8 +272,16 @@ TODO
 [xprime]: http://www.x-prime.com/
 [eduPad]: http://www.edupad.com/
 [scimob]: http://www.scimob.net/
-[picapoc]: http://www.picapoc.com
 [myCashMgmt]: http://itunes.apple.com/fr/app/mycashmgmt/id338997890?mt=8
 [dr]: http://www.deadrooster.org
 [statium]: http://statium.io
 [sourdoreille]: http://sourdoreille.net
+[newschool]: http://www.new-webschool.com
+[trains]: http://www.petitesmusiquesdetrains.com
+[parisperche]: http://culturebox.francetvinfo.fr/festivals/les-contes-du-paris-perche/
+[culturebox]: http://culturebox.francetvinfo.fr
+[concerts]: http://sourdoreille.net/sondage-concerts/
+[capgemini]: https://www.fr.capgemini.com/experts/telecommunications-medias-et-divertissement
+[cplus]: http://canalplus.fr
+[tgs]: http://www.vsg3d.com
+[ENSEIRB]: http://www.enseirb-matmeca.fr

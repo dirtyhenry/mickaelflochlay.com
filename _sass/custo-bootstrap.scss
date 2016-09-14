@@ -25,13 +25,14 @@ $body-padding-top: $navbar-height * 2;
 
 
 body {
-  background-color: rgb(44, 47, 62);
+  background-color: $apple-wwdc-color;
   margin: 0 auto;
   max-width: 60em;
   font-family: "Hack";
   line-height: 1.5;
   padding: $body-padding-top 1em;
   color: #fff;
+  position: relative; // To activate scrollspy
 }
 
 h1 {
