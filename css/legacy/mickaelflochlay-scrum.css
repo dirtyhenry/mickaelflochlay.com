@@ -1,0 +1,52 @@
+/* SCRUM */
+
+.scrumboard {
+	width: 100%;
+}
+
+.scrumboard h3 {
+	text-align: center;
+}
+
+.debug div {
+	border: thin solid #dddddd;
+}
+
+/** Total 6 columns width : 592px */
+/** 2 columns width : 184px */
+
+.scrumproductbacklog {
+	width: 31.081%;
+	float: left;
+}
+
+.scrumsprintbacklog {
+	width: 31.081%;	
+	float: left;
+	margin-left: 3.378%;
+}
+  
+.scrumsprintdonetasks {
+	width: 31.081%;
+	float: right; 
+}
+
+.userstory {
+	margin-top: 5px;
+	padding: 40px 10px;
+	height: 100px;
+	word-wrap: break-word;
+	text-align: center;
+	vertical-align: middle;
+	font-family: "Casual", "Comic Sans MS";
+	font-size: 1.2em;
+	background: url("img/postit.jpg");
+}
+
+.scrumproductbacklog .userstory {
+	background: url("img/postit-blue.png");	
+}
+
+.scrumsprintdonetasks .userstory {
+	background: url("img/postit-orange.png");	
+}
