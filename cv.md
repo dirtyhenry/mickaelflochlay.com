@@ -161,7 +161,7 @@ Nom du projet SFR SSO : SSO (via Siteminder by Netegrity)
 Au sein de Capgemini Telecom Media Défense :
 
 *   Réalisation d'une application de consolidation d'indicateurs statistiques
-    et d'une interface web de présentation et d'administration
+    et d'une interface web de présentation et d'administration pour SFR
 *   Maquettage, templating et développement Java d'une application serveur destiné
     à la présentation de contenus adaptés aux possibilités techniques du client pour la
     plateforme de téléchargement de vidéo de SFR

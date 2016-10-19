@@ -149,8 +149,16 @@ Within Capgemini Telecom Media Défense:
 
 Within Capgemini Telecom Media Défense :
 
-*   Designed and developed Java applications for mobile phones companies IT
-    (SFR, Bouygues and Comverse)
+*   Specifications, conception, and development of the integration of the Comverse
+    messaging solution into Bouygues Telecom's service platform.
+*   Modeling, templates conception and Java development of the evolution of the video
+    content browsing application of the french mobile phone operator SFR that aimed
+    to display a presentation of items from a content manager that fit the mobile
+    device display abilities, its phone network restrictions, the video codec
+    available on the device, etc.
+*   Development of a statistics and indicators aggregation application and of a
+    web interface to display and administrate this data during the integration
+    of the Netegrity Single Sign On solution into SFR's service platform.
 
 ### C++ 3D Developer [TGS][tgs] <small>february ’04 / september ’04</small>
 
