@@ -138,6 +138,11 @@ Au sein de Capgemini Telecom Media Défense :
 
 ### Responsable Technique Java [Canal+][cplus]/[Capgemini][capgemini] <small>décembre ’05 / décembre ’08</small>
 
+{% comment %}
+WebServices, IBM Websphere Application Server, Java Frameworks (Spring,
+Hibernate, Maven), Tomcat, Oracle 10, Windows XP, CVS
+{% endcomment %}
+
 En forfait, puis en régie au sein de Canal+ :
 
 *   Le projet Droits et Terminaux comprenait la conception, la réalisation
@@ -154,22 +159,32 @@ En forfait, puis en régie au sein de Canal+ :
 
 {% comment %}
 Nom du projet Bouygues : Plug IS-IS Messagerie
+Java (JMS), XML (JiBX), Corba, Sun Solaris 9, CVS
+
 Nom du projet SFR Vidéo : SCP R2
+WebLogic Server, Servlet, JSP, Java, Oracle, Sun Solaris 9,
+Vignette (Content Manager), CVS
+
 Nom du projet SFR SSO : SSO (via Siteminder by Netegrity)
+PHP, Oracle, Perl, Sun Solaris 8, PVCS
 {% endcomment %}
 
 Au sein de Capgemini Telecom Media Défense :
 
-*   Réalisation d'une application de consolidation d'indicateurs statistiques
-    et d'une interface web de présentation et d'administration pour SFR
+*   Spécification, conception et réalisation de l'intégration de la solution de
+    messagerie Comverse dans l'infrastructure de service de Bouygues Telecom
 *   Maquettage, templating et développement Java d'une application serveur destiné
     à la présentation de contenus adaptés aux possibilités techniques du client pour la
     plateforme de téléchargement de vidéo de SFR
-*   Spécification, conception et réalisation de l'intégration de la solution de
-    messagerie Comverse dans l'infrastructure de service de Bouygues Telecom
+*   Réalisation d'une application de consolidation d'indicateurs statistiques
+    et d'une interface web de présentation et d'administration pour SFR
 *   Environnement technique Websphere, Weblogic, Tomcat
 
 ### Développeur C++ 3D [TGS][tgs] <small>février ’04 / septembre ’04</small>
+
+{% comment %}
+C/C++, Visual C++, OpenGL, GLSL, DirectX, GPU assembling, CVS.
+{% endcomment %}
 
 * Stage de fin d'étude
 * Intégration du langage de programmation GPU GLSL dans Open Inventor
