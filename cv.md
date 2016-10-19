@@ -31,8 +31,8 @@ lang: fr
       </ul>
 
       <div class="navbar-right">
-        <a href="{{ "cv-en.html" | prepend: full_base_url }}" type="button" class="btn btn-default navbar-btn">🇺🇸</a>
-        <a href="{{ "assets/pdf/cv-mickael-flochlay-A4.pdf" | prepend: full_base_url }}" type="button" class="btn btn-default navbar-btn">Version PDF A4</a>
+        <a href="{{ "resume.html" | prepend: full_base_url }}" type="button" class="btn btn-default navbar-btn">🇺🇸</a>
+        <a href="{{ "assets/pdf/cv-FR-mickael-flochlay-A4.pdf" | prepend: full_base_url }}" type="button" class="btn btn-default navbar-btn">Version PDF A4</a>
       </div>
     </div>
   </div>
@@ -54,7 +54,7 @@ Je suis à la recherche de missions :
 Me contacter :
 
 
-* Email : <a href="javascript:window.location.href=atob('bWFpbHRvOm1pY2thZWxAZmxvY2hsYXkuY29tP3N1YmplY3Q9UHJpc2UgZGUgY29udGFjdCZib2R5PUplIHZldXggdHJhdmFpbGxlciBhdmVjIHZvdXMgOik=')" style="unicode-bidi: bidi-override; direction: rtl;">moc.yalhcolf@leakcim</a>
+* E-mail : <a href="javascript:window.location.href=atob('bWFpbHRvOm1pY2thZWxAZmxvY2hsYXkuY29tP3N1YmplY3Q9UHJpc2UgZGUgY29udGFjdCZib2R5PUplIHZldXggdHJhdmFpbGxlciBhdmVjIHZvdXMgOik=')" style="unicode-bidi: bidi-override; direction: rtl;">moc.yalhcolf@leakcim</a>
 * Téléphone : <a href="tel:33688597286">+33 6 88 59 72 86</a>
 * Web : <a href="{{ site.url }}">{{ site.url }}</a>
 
