@@ -15,6 +15,9 @@ $apple-text-color-green-light: rgb(160, 204, 124);
 
 $navbar-default-bg: $apple-wwdc-color;
 $navbar-default-brand-color: white;
+$navbar-default-link-hover-color: white;
+$navbar-default-link-color: darken(white, 40%);
+$navbar-default-link-hover-bg: darken($apple-wwdc-color, 10%);
 
 @import "bootstrap";
 
