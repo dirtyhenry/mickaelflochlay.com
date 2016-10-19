@@ -16,4 +16,4 @@ Have a good one.
 
 <a href="cv.html" type="button" class="btn btn-default">CV en français</a>
 
-<a href="cv-en.html" type="button" class="btn btn-default">Engligh Resume</a>
+<a href="resume.html" type="button" class="btn btn-default">Engligh Resume</a>

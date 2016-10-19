@@ -21,6 +21,10 @@ namespace :mickaelflochlay do
     sh "ln -Ffvs ~/Developer/build/mickaelflochlay.com-gh-pages ~/Developer/build/mickaelflochlay.com-pow/public"
     sh "cd ~/.pow && ln -s ~/Developer/build/mickaelflochlay.com-pow mickaelflochlay.com"
   end
-end
 
-#rsync --archive --compress --verbose --delete --dry-run --exclude-from=excludes.txt ~/Developer/build/mickaelflochlay.com dirtyhenry@emmett:~/work/websites/mickaelflochlay.com
+  desc "Deploy Production"
+  task :deploy_prod => [:build_prod] do
+    # Add --dry-run for debugging
+    sh "rsync --archive --compress --verbose --delete --exclude-from=excludes.txt ~/Developer/build/mickaelflochlay.com dirtyhenry@emmett:~/work/websites/"
+  end
+end
