@@ -28,6 +28,7 @@ exclude:
   - Gruntfile.js
   - Rakefile
   - bower_components
+  - excludes.txt
   - node_modules
   - package.json
 

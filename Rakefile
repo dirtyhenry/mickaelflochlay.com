@@ -22,3 +22,5 @@ namespace :mickaelflochlay do
     sh "cd ~/.pow && ln -s ~/Developer/build/mickaelflochlay.com-pow mickaelflochlay.com"
   end
 end
+
+#rsync --archive --compress --verbose --delete --dry-run --exclude-from=excludes.txt ~/Developer/build/mickaelflochlay.com dirtyhenry@emmett:~/work/websites/mickaelflochlay.com
