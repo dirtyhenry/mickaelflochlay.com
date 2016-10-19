@@ -21,6 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mickaelflochlay.com.dev" # the base hostname & protocol for your site
 twitter_username: dirtyhenry
 github_username:  dirtyhenry
+destination: ~/Developer/build/mickaelflochlay.com-gh-pages
 exclude:
   - Gemfile
   - Gemfile.lock

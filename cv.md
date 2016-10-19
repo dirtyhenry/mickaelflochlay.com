@@ -152,9 +152,22 @@ En forfait, puis en régie au sein de Canal+ :
 
 ### Développeur Java [Capgemini][capgemini] <small>janvier ’05 / décembre ’05</small>
 
+{% comment %}
+Nom du projet Bouygues : Plug IS-IS Messagerie
+Nom du projet SFR Vidéo : SCP R2
+Nom du projet SFR SSO : SSO (via Siteminder by Netegrity)
+{% endcomment %}
+
 Au sein de Capgemini Telecom Media Défense :
 
-* Conception et développement Java sur des projets orientés télécom pour SFR, Bouygues et Comverse
+*   Réalisation d'une application de consolidation d'indicateurs statistiques
+    et d'une interface web de présentation et d'administration
+*   Maquettage, templating et développement Java d'une application serveur destiné
+    à la présentation de contenus adaptés aux possibilités techniques du client pour la
+    plateforme de téléchargement de vidéo de SFR
+*   Spécification, conception et réalisation de l'intégration de la solution de
+    messagerie Comverse dans l'infrastructure de service de Bouygues Telecom
+*   Environnement technique Websphere, Weblogic, Tomcat
 
 ### Développeur C++ 3D [TGS][tgs] <small>février ’04 / septembre ’04</small>
 
