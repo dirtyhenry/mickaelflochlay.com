@@ -1,7 +1,7 @@
 namespace :mickaelflochlay do
   desc "Production Build"
   task :build_prod do
-    sh "jekyll build --config _config.yml,_config_production.yml"
+    sh "JEKYLL_ENV=production jekyll build --config _config.yml,_config_production.yml"
   end
 
   desc "Staging Build"
