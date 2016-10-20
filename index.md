@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: Développeur iOS Mickaël Floc'hlay
-description: TODO
+description: Le site web du développeur freelance iOS et web Mickaël Floc'hlay
 lang: fr
 ---
 

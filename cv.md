@@ -16,7 +16,7 @@ lang: fr
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="{{ full_base_url }}">
+      <a class="navbar-brand" href="{{ site.url | append: site.baseurl }}">
         Mickaël Floc'hlay
       </a>
     </div>
@@ -48,8 +48,8 @@ iOS, macOS & web Consultant & full-stack Developer
 
 Je suis à la recherche de missions :
 
-* de conseil en management agile d'équipes techniques
 * de développement full-stack mobile ou web
+* en conseil de management agile d'équipes techniques
 
 Me contacter :
 
@@ -66,13 +66,13 @@ Me contacter :
 
 ### CEO/CTO [Bootstragram][bootstragram] <small>depuis septembre ’14</small>
 
-J'ai co-fondé Bootstragram (SAS) afin d'y développer [Statium][statium] — un
-agenda intelligent pour les fans de football — et j'y exerce également en tant
-que freelance.
+J'ai co-fondé Bootstragram (SAS) afin de fournir mes services de développeur en
+freelance, et d'y développer [Statium][statium] — un calendrier intelligent pour
+les fans de football.
 
-Via ce projet, Bootstragram a été sélectionné par Startup42, un accélérateur
-de startups, où nous avons passé 4 mois en 2016 à nous former sur tous les
-aspects non techniques du développement d'une lean startup.
+Via ce projet, Bootstragram a été sélectionné par Startup42, un accélérateur de
+startups, où nous avons passé 4 mois en 2016 à nous former sur tous les aspects
+non techniques du développement d'une lean startup.
 
 En prestation de services, j'ai réalisé les projets suivants :
 
@@ -91,8 +91,9 @@ En prestation de services, j'ai réalisé les projets suivants :
 
 ### CTO [eduPad][eduPad] <small>janvier ’12 / août ’14</small>
 
-Après avoir réalisé quelques missions en freelance, eduPad m'a recruté pour recruter et
-manager l'équipe de développement de la société, constituée de 3 à 4 personnes.
+Après y avoir réalisé quelques missions en freelance, eduPad m'a recruté pour
+recruter et manager l'équipe de développement de la société, constituée de 3 à 4
+personnes.
 
 * Recrutement et mise en place des process de l'équipe technique, que je manageais selon
   des principes inspirés des méthodes agiles et de scrum en particulier
@@ -149,11 +150,12 @@ En forfait, puis en régie au sein de Canal+ :
     *from scratch* du système de gestion des droits des abonnés Canal+, tout
     vecteur de diffusion confondus (applications web développées en Java)
 *   Mon rôle était durant l'année 2006 celui de responsable d'une équipe de
-    développement de 3 personnes et des tests de performance pré-mise en
+    développement de 3 personnes et des tests de performance avant mise en
     production. À partir de janvier 2007 (après mise en production de l'appli) :
-    il a évolué en tant que responsable technique de l'application, incluant la
-    conception et rédaction des évolutions de l'application, et l'encadrement
-    d'une équipe de 5 développeurs dans une organisation de type Scrum
+    mon rôle a évolué en tant que responsable technique de l'application,
+    incluant la conception et rédaction des évolutions de l'application, et
+    l'encadrement d'une équipe de 5 développeurs dans une organisation de type
+    Scrum
 
 ### Développeur Java [Capgemini][capgemini] <small>janvier ’05 / décembre ’05</small>
 
