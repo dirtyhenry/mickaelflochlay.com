@@ -104,6 +104,8 @@ personnes.
 
 ### Freelance <small>juin ’10 / janvier ’12</small>
 
+<a role="button" data-toggle="collapse" href="#detailsFreelance">détails</a>
+
 * Développement de logiciels pour iOS et Mac OS X
 * Développement de services et applications web
 * Consultant en informatique avec expertise en méthodes agiles (Lean, Scrum) et en mobilité
@@ -113,9 +115,15 @@ personnes.
     *   [eduPad][eduPad] : conseil et développement iOS sur la suite logicielle iTooch
     *   [Scimob][scimob] : conseil et développement iOS sur les applications Adele et Tymob
     *   Picapoc : conseil et développement iOS
+{: .collapse #detailsFreelance}
+
+{::options parse_block_html="true" /}
 
 ### Chef de projet Innovation [Capgemini][capgemini] <small>avril ’09 / juin ’10</small>
 
+<a role="button" data-toggle="collapse" href="#detailsCapgemini1">détails</a>
+
+<div class="collapse" id="detailsCapgemini1">
 Au sein de Capgemini Telecom Media Défense :
 
 * Identification, qualification et test de services mobiles innovants pour
@@ -128,14 +136,19 @@ Au sein de Capgemini Telecom Media Défense :
 * Références iOS publiques :
     * [myCashMgmt][myCashMgmt] (pour Natixis)
     * Transform TV (pour Capgemini Consulting)
+</div>
 
 ### Consultant Technique Java [Capgemini][capgemini] <small>décembre ’08 / avril ’09</small>
 
+<a role="button" data-toggle="collapse" href="#detailsCapgemini2">détails</a>
+
+<div class="collapse" id="detailsCapgemini2">
 Au sein de Capgemini Telecom Media Défense :
 
 * Audit de code et de méthodes projet en interne
 * Mise en place de pratiques agiles sur projets (intégration continue et
   formation des équipes à la philosophie agile)
+</div>
 
 ### Responsable Technique Java [Canal+][cplus]/[Capgemini][capgemini] <small>décembre ’05 / décembre ’08</small>
 
@@ -144,6 +157,9 @@ WebServices, IBM Websphere Application Server, Java Frameworks (Spring,
 Hibernate, Maven), Tomcat, Oracle 10, Windows XP, CVS
 {% endcomment %}
 
+<a role="button" data-toggle="collapse" href="#detailsCapgemini3">détails</a>
+
+<div class="collapse" id="detailsCapgemini3">
 En forfait, puis en régie au sein de Canal+ :
 
 *   Le projet Droits et Terminaux comprenait la conception, la réalisation
@@ -156,6 +172,7 @@ En forfait, puis en régie au sein de Canal+ :
     incluant la conception et rédaction des évolutions de l'application, et
     l'encadrement d'une équipe de 5 développeurs dans une organisation de type
     Scrum
+</div>
 
 ### Développeur Java [Capgemini][capgemini] <small>janvier ’05 / décembre ’05</small>
 
@@ -171,6 +188,9 @@ Nom du projet SFR SSO : SSO (via Siteminder by Netegrity)
 PHP, Oracle, Perl, Sun Solaris 8, PVCS
 {% endcomment %}
 
+<a role="button" data-toggle="collapse" href="#detailsCapgemini4">détails</a>
+
+<div class="collapse" id="detailsCapgemini4">
 Au sein de Capgemini Telecom Media Défense :
 
 *   Spécification, conception et réalisation de l'intégration de la solution de
@@ -181,6 +201,7 @@ Au sein de Capgemini Telecom Media Défense :
 *   Réalisation d'une application de consolidation d'indicateurs statistiques
     et d'une interface web de présentation et d'administration pour SFR
 *   Environnement technique Websphere, Weblogic, Tomcat
+</div>
 
 ### Développeur C++ 3D [TGS][tgs] <small>février ’04 / septembre ’04</small>
 
@@ -188,10 +209,14 @@ Au sein de Capgemini Telecom Media Défense :
 C/C++, Visual C++, OpenGL, GLSL, DirectX, GPU assembling, CVS.
 {% endcomment %}
 
+<a role="button" data-toggle="collapse" href="#detailsTGS">détails</a>
+
+<div class="collapse" id="detailsTGS">
 * Stage de fin d'étude
 * Intégration du langage de programmation GPU GLSL dans Open Inventor
 * Développement de démos et investigation sur les possibilités de programmation GPU
 * Environnement technique : C/C++, Visual C++, OpenGL, GLSL, DirectX, assembleur GPU
+</div>
 
 ---
 
