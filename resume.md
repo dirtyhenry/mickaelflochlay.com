@@ -43,7 +43,7 @@ lang: en
 
 # Mickaël Floc'hlay
 
-iOS, macOS & web Consultant & full-stack Developer
+iOS, macOS, web full-stack Developer & Consultant
 {: .lead}
 
 I am available for the following tpyes of missions:

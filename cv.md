@@ -43,7 +43,7 @@ lang: fr
 
 # Mickaël Floc'hlay
 
-iOS, macOS & web Consultant & full-stack Developer
+iOS, macOS, web full-stack Developer & Consultant
 {: .lead}
 
 Je suis à la recherche de missions :
@@ -98,9 +98,9 @@ personnes.
 * Recrutement et mise en place des process de l'équipe technique, que je manageais selon
   des principes inspirés des méthodes agiles et de scrum en particulier
 * Outillage pour l'industrialisation des apps de la société (plus de 50 titres par plateforme : iOS et Android)
-* Design et implémentation d'un back-office permettant la scalabilité de l'application, qui est passée
-  de 5 000 à 250 000 downloads mensuels en moyenne
-* Environ 8 400 000 downloads lors de mon passage dans la société
+* Design et réalisation d'un back-office permettant la scalabilité de l'application, qui est passée
+  de 5 000 à 250 000 téléchargements mensuels en moyenne
+* Environ 8 400 000 téléchargements lors de mon passage dans la société
 
 ### Freelance <small>juin ’10 / janvier ’12</small>
 
