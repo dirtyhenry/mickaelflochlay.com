@@ -16,7 +16,7 @@ lang: en
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#">
+      <a class="navbar-brand" href="{{ full_base_url }}">
         Mickaël Floc'hlay
       </a>
     </div>
@@ -46,12 +46,12 @@ lang: en
 iOS, macOS & web Consultant & full-stack Developer
 {: .lead}
 
-I am available for these kinds of missions:
+I am available for the following tpyes of missions:
 
-* Agile technical team management consulting
 * Full-stack mobile iOS & Web development
+* Agile technical team management consulting
 
-To get in touch:
+How to contact me:
 
 * Email : <a href="javascript:window.location.href=atob('bWFpbHRvOm1pY2thZWxAZmxvY2hsYXkuY29tP3N1YmplY3Q9UHJpc2UgZGUgY29udGFjdCZib2R5PUplIHZldXggdHJhdmFpbGxlciBhdmVjIHZvdXMgOik=')" style="unicode-bidi: bidi-override; direction: rtl;">moc.yalhcolf@leakcim</a>
 * Phone : <a href="tel:33688597286">+33 6 88 59 72 86</a>
@@ -65,12 +65,14 @@ To get in touch:
 
 ### CEO/CTO [Bootstragram][bootstragram] <small>since september ’14</small>
 
-I co-founded Bootstragram in order to develop [Statium][statium] — a smart
-soccer calendar for soccer fans — and get back into a freelancing position.
+I co-founded Bootstragram in order to provide freelance developer services to
+other companies as well as develop my own project [Statium][statium], a smart
+soccer calendar for soccer fans.
 
-Bootstragram was selected by the French startup accelerator Startup42 — in
-the mid-2016 four-month batch — which helped me get a better insight of all the
-non-technical skills required to run a lean startup.
+Bootstragram was selected by the French startup accelerator Startup42 for a
+4-month intensive program from April - August 2016.  Start42 brought me and the
+Bootstragram team invaluable insight into all the non-technical skills required
+to run a lean startup.
 
 Some of my clients references:
 

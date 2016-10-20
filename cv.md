@@ -16,7 +16,7 @@ lang: fr
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#">
+      <a class="navbar-brand" href="{{ full_base_url }}">
         Mickaël Floc'hlay
       </a>
     </div>

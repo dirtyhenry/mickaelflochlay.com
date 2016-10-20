@@ -9,6 +9,7 @@ lang: fr
 
 ## Come and say hi.
 
+* [Statium](http://statium.io) for soccer stuff
 * [Bootstragram](http://bootstragram.com) for pro stuff
 * [Dead Rooster](http://deadrooster.org) for fun stuff
 
