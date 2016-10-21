@@ -241,7 +241,7 @@ Basics of typography rules, for screens and papers.
 ### Languages
 
 * French: native
-* English: fluent (native english speaking family environment)
+* English: fluent (native English speaking family environment)
   * TOEIC (2003): 925 points
   * TOEFL (2003): 610 points
 * Spanish: proficient
