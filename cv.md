@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: CV développeur iOS et web Mickaël Floc'hlay sur Paris
+title: Développeur iOS et web : Mickaël Floc’hlay
 description: >
-  CV détaillé en français du développeur full-stack iOS et Web Mickaël Floc'hlay,
-  basé à Paris et disponible pour des missions freelance.
+  Mon CV détaillé. Je suis un développeur full-stack iOS et Web basé à Paris
+  et je suis disponible pour des missions de développement en freelance.
 lang: fr
 opengraph:
   image: /assets/images/mick-square.png

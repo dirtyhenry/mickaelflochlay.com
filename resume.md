@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: iOS & Web Developer Mickaël Floc'hlay's Résumé
+title: iOS & Web Developer: Mickaël Floc’hlay
 description: >
-  Detailed résumé of the Paris-based full-stack iOS and web developer Mickaël
-  Floc'hlay, available for freelance missions.
+  My detailed résumé. I'm a Paris-based full-stack iOS and web developer
+  and I am available to provide freelance developer services.
 lang: en
 opengraph:
   image: /assets/images/mick-square.png
