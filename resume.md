@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: iOS & Web Developer: Mickaël Floc’hlay
+title: "iOS & Web Developer: Mickaël Floc’hlay"
 description: >
   My detailed résumé. I'm a Paris-based full-stack iOS and web developer
   and I am available to provide freelance developer services.
@@ -76,45 +76,55 @@ Bootstragram was selected by the French startup accelerator Startup42 for a
 Bootstragram team invaluable insight into all the non-technical skills required
 to run a lean startup.
 
-Some of my clients references:
+Clients references:
 
 *   [Deezer][deezer]/[Sourdoreille][sourdoreille]: Facebook widget to create
-    playlists according to their tastes from festivals lineups' artists
+    playlists from upcoming festival lineups. The playlists are personalized
+    according to the user's musical taste.
+*   [Culturebox][culturebox]/[Sourdoreille][sourdoreille]: a dynamic and
+    visually unique website for the concert web series
+    [*Les Contes du Paris Perché*][parisperche]
+*   [Sourdoreille][sourdoreille]: a visually innovative polling website for the
+    comedy project [*Les Concerts, ce serait mieux sans*][concerts]
+    ("Concerts would be better off without")
+*   [Tabaramounien][tabaramounien]/[N/ËW][newschool]: a web-based SVG editor for
+    creating slide presentations
 *   [Tabaramounien][tabaramounien]: technical assistance on interactive projets
     for Bordeaux's local government
-*   [Tabaramounien][tabaramounien]/[N/ËW][newschool]: web SVG slideshows editor
-*   [*Petites Musiques de Trains*][trains]: web site and iOS app for this
-    travel and music webseries    
-*   [Culturebox][culturebox]/[Sourdoreille][sourdoreille]: website for the  
-    concerts webseries [*Les Contes du Paris Perché*][parisperche]
-*   [Sourdoreille][sourdoreille]: polling website for the humorous project
-    [*Les Concerts, ce serait mieux sans*][concerts]
+*   [*Petites Musiques de Trains*][trains]: a website and iOS app for a web
+    series that involves discovering local music on a 2-month train journey
+    (Mexico, Bolivia)
 
 ### CTO [eduPad][eduPad] <small>january ’12 / august ’14</small>
 
-After a couple of freelancing missions, eduPad recruited me to recruit and manage
-an internal technical team, made of 3 or 4 developers.
+*   Recruited and managed technical team of 5 developers, using agile methods inspired by scrum
+*   Developed an app factory for eduPad's 100+ apps (iOS & Android)
+*   Designed and developed a scalable back-office to support eduPad's growth from 5k to 250k monthly average downloads, as well as even more intense peaks during marketing campaigns.
+*   Over 8.4M apps downloads during my experience at eduPad
 
-*   Recruitment and management of the technical team, following agile methods inspired by scrum
-*   Developed an app factory as eduPad has more than 50 apps per plateform (iOS & Android)
-*   Designed and developed a scalable back-office as eduPad went from 5k to 250k
-    monthly average downloads, plus intense peaks during marketing campaigns.
-*   About 8.4M apps downloads during my experience at eduPad
+{::options parse_block_html="true" /}
 
 ### Freelance <small>june ’10 / january ’12</small>
 
+<a role="button" data-toggle="collapse" href="#detailsFreelance">details</a>
+
+<div class="collapse" id="detailsFreelance">
 * iOS and macOS apps development
 * Web apps and services development
 * Agile mobile consultant
-* Some of my clients:
+* Client references:
     *   [Bandcamp][bandcamp]: web developement (Ruby, JS)
     *   [X-Prime][xprime]: iOS consulting
     *   [eduPad][eduPad]: iOS consulting
     *   [Scimob][scimob]: iOS consulting
     *   Picapoc: web & iOS consulting
+</div>
 
 ### Innovation & Mobile Project Manager [Capgemini][capgemini] <small>april ’09 / june ’10</small>
 
+<a role="button" data-toggle="collapse" href="#detailsCapgemini1">details</a>
+
+<div class="collapse" id="detailsCapgemini1">
 Within Capgemini Telecom Media Défense:
 
 *   Identified, qualified and tested innovative mobile services for the Orange
@@ -124,18 +134,26 @@ Within Capgemini Telecom Media Défense:
     iPad, Android and BlackBerry applications for Orange, Lyonnaise des Eaux
     (GDF Suez group), Natixis and the Capgemini Group
 *   Responsible for team's schedule, budget and reports
+</div>
 
 ### Java Consultant [Capgemini][capgemini] <small>december ’08 / april ’09</small>
 
+<a role="button" data-toggle="collapse" href="#detailsCapgemini2">details</a>
+
+<div class="collapse" id="detailsCapgemini2">
 Within Capgemini Telecom Media Défense:
 
 * Audited java code and project methods, introducing revision control software
   and continuous integration best practices to secure, improve and fasten
   software deliveries
 * Introduced agile philosophy and methods for development teams
+</div>
 
 ### Java Technical Manager [Canal+][cplus]/[Capgemini][capgemini] <small>december ’05 / december ’08</small>
 
+<a role="button" data-toggle="collapse" href="#detailsCapgemini3">details</a>
+
+<div class="collapse" id="detailsCapgemini3">
 *   Client: Canal+ (French premium pay television channel)
 *   Project “Droits et Terminaux” (“Rights and Terminals”): Design and
     realisation from scratch of the customer rights' management system of all
@@ -148,9 +166,13 @@ Within Capgemini Telecom Media Défense:
 *   Promoted to Technical Manager of system, coaching 5-person development team
     in a Scrum-like method, designing updates and drafting technical
     specifications.
+</div>
 
 ### Java Developer [Capgemini][capgemini] <small>january ’05 / december ’05</small>
 
+<a role="button" data-toggle="collapse" href="#detailsCapgemini4">details</a>
+
+<div class="collapse" id="detailsCapgemini4">
 Within Capgemini Telecom Media Défense :
 
 *   Specifications, conception, and development of the integration of the Comverse
@@ -163,14 +185,19 @@ Within Capgemini Telecom Media Défense :
 *   Development of a statistics and indicators aggregation application and of a
     web interface to display and administrate this data during the integration
     of the Netegrity Single Sign On solution into SFR's service platform.
+</div>
 
 ### C++ 3D Developer [TGS][tgs] <small>february ’04 / september ’04</small>
 
+<a role="button" data-toggle="collapse" href="#detailsTGS">details</a>
+
+<div class="collapse" id="detailsTGS">
 * Scholar Intership
 * Integrated the GLSL GPU-programming language in Open Inventor
 * Developed GLSL support demos
 * Researched about GPU-programming possibilities
 * Technical environment: C/C++, Visual C++, OpenGL, GLSL, DirectX, GPU assembly
+</div>
 
 ---
 
@@ -304,7 +331,7 @@ Intensive two-year course preparing for the competitive entrance examinations to
 [sourdoreille]: http://sourdoreille.net
 [newschool]: http://www.new-webschool.com
 [trains]: http://www.petitesmusiquesdetrains.com
-[parisperche]: http://culturebox.francetvinfo.fr/festivals/les-contes-du-paris-perche/
+[parisperche]: http://culturebox.francetvinfo.fr/paris-perche/experience/
 [culturebox]: http://culturebox.francetvinfo.fr
 [concerts]: http://sourdoreille.net/sondage-concerts/
 [capgemini]: https://www.fr.capgemini.com/experts/telecommunications-medias-et-divertissement

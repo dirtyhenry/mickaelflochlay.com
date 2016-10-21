@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Développeur iOS et web : Mickaël Floc’hlay
+title: "Développeur iOS et web : Mickaël Floc’hlay"
 description: >
   Mon CV détaillé. Je suis un développeur full-stack iOS et Web basé à Paris
   et je suis disponible pour des missions de développement en freelance.
@@ -68,58 +68,55 @@ Me contacter :
 
 ### CEO/CTO [Bootstragram][bootstragram] <small>depuis septembre ’14</small>
 
-J'ai co-fondé Bootstragram (SAS) afin de fournir mes services de développeur en
+J'ai cofondé Bootstragram (SAS) afin de fournir mes services de développeur en
 freelance, et d'y développer [Statium][statium] — un calendrier intelligent pour
 les fans de football.
 
-Via ce projet, Bootstragram a été sélectionné par Startup42, un accélérateur de
-startups, où nous avons passé 4 mois en 2016 à nous former sur tous les aspects
+Ce projet a été sélectionné par Startup42, un accélérateur de
+startups qui nous a formé courant 2016 à nous former sur tous les aspects
 non techniques du développement d'une lean startup.
 
-En prestation de services, j'ai réalisé les projets suivants :
+Références clients :
 
 *   [Deezer][deezer]/[Sourdoreille][sourdoreille] : recommandation de playlist
     automatique sous forme de widget Facebook
-*   [Tabaramounien][tabaramounien] : assistance technique sur des projets
-    interactifs pour la semaine du numérique de la mairie de Bordeaux
-*   [Tabaramounien][tabaramounien]/[N/ËW][newschool] : création d'un éditeur de
-    diaporama en SVG à destination des élèves de l'école
-*   [*Petites Musiques de Trains*][trains] : réalisation du site web et de
-    l'application iOS de cette web-série de voyages    
 *   [Culturebox][culturebox]/[Sourdoreille][sourdoreille] : réalisation du site
     pour la web-série de concerts [*Les Contes du Paris Perché*][parisperche]
 *   [Sourdoreille][sourdoreille] : réalisation du site web de sondage décalé
     [*Les Concerts, ce serait mieux sans*][concerts]
+*   [Tabaramounien][tabaramounien] : assistance technique sur des projets
+    interactifs pour la semaine du numérique de la mairie de Bordeaux
+*   [Tabaramounien][tabaramounien]/[N/ËW][newschool] : création d'un éditeur de
+    diaporama en SVG à destination des élèves de l'école N/ËW
+*   [*Petites Musiques de Trains*][trains] : réalisation du site web et de
+    l'application iOS de cette web-série de voyages    
 
 ### CTO [eduPad][eduPad] <small>janvier ’12 / août ’14</small>
 
-Après y avoir réalisé quelques missions en freelance, eduPad m'a recruté pour
-recruter et manager l'équipe de développement de la société, constituée de 3 à 4
-personnes.
-
-* Recrutement et mise en place des process de l'équipe technique, que je manageais selon
-  des principes inspirés des méthodes agiles et de scrum en particulier
-* Outillage pour l'industrialisation des apps de la société (plus de 50 titres par plateforme : iOS et Android)
+* Recrutement et mise en place des process de l'équipe technique (3 à 4 personnes)
+* Méthodologie de management agile inspirée de scrum
+* Outillage pour l'industrialisation des applications de la société (plus de 50 titres par plateforme : iOS et Android)
 * Design et réalisation d'un back-office permettant la scalabilité de l'application, qui est passée
   de 5 000 à 250 000 téléchargements mensuels en moyenne
 * Environ 8 400 000 téléchargements lors de mon passage dans la société
+
+{::options parse_block_html="true" /}
 
 ### Freelance <small>juin ’10 / janvier ’12</small>
 
 <a role="button" data-toggle="collapse" href="#detailsFreelance">détails</a>
 
+<div class="collapse" id="detailsFreelance">
 * Développement de logiciels pour iOS et Mac OS X
 * Développement de services et applications web
 * Consultant en informatique avec expertise en méthodes agiles (Lean, Scrum) et en mobilité
-* Mes références clients :
+* Références clients :
     *   [Bandcamp][bandcamp] : développement web, Ruby et JavaScript
     *   [X-Prime][xprime] : conseil iOS
     *   [eduPad][eduPad] : conseil et développement iOS sur la suite logicielle iTooch
     *   [Scimob][scimob] : conseil et développement iOS sur les applications Adele et Tymob
     *   Picapoc : conseil et développement iOS
-{: .collapse #detailsFreelance}
-
-{::options parse_block_html="true" /}
+</div>
 
 ### Chef de projet Innovation [Capgemini][capgemini] <small>avril ’09 / juin ’10</small>
 
@@ -254,7 +251,7 @@ C/C++, Visual C++, OpenGL, GLSL, DirectX, GPU assembling, CVS.
 ### Webdesign
 
 Sans être graphiste ou designer, j'ai une bonne connaissance de logiciels tels
-que Photoshop, Pixelmator, Graphics, Sketch qui me permettent d'être autonome
+que Photoshop, Pixelmator, Graphics, Sketch qui me permet d'être autonome
 pour exporter ou reproduire logiciellement le contenu de fichiers sources livrés
 par des graphistes.
 Je peux aussi décliner convenablement des chartes graphiques existantes.
@@ -264,7 +261,7 @@ Bonne connaissance des règles de la typographie, sur écran et papier.
 ### Langues
 
 * Anglais : courant (environnement familial anglophone)
-  * 925 points au TOEIC et
+  * 925 points au TOEIC en janvier 2003
   * 610 points au TOEFL en janvier 2003
 * Espagnol : niveau scolaire
 
@@ -283,8 +280,8 @@ Bonne connaissance des règles de la typographie, sur écran et papier.
 
 ### Formation continue par MOOC [edX][edX]
 
-Je continue de me former sur des sujets nouveaux via des formations en ligne,
-notamment via la plateforme edX. Mes cours récents :
+Je me forme en continu sur des sujets nouveaux via des formations en ligne,
+notamment la plateforme edX. Mes cours récents :
 
 * ’15 : Marketing for non-marketers (UBC)
 * ’15 : The Analytics Edge (MIT)
@@ -351,7 +348,7 @@ notamment via la plateforme edX. Mes cours récents :
 [sourdoreille]: http://sourdoreille.net
 [newschool]: http://www.new-webschool.com
 [trains]: http://www.petitesmusiquesdetrains.com
-[parisperche]: http://culturebox.francetvinfo.fr/festivals/les-contes-du-paris-perche/
+[parisperche]: http://culturebox.francetvinfo.fr/paris-perche/experience/
 [culturebox]: http://culturebox.francetvinfo.fr
 [concerts]: http://sourdoreille.net/sondage-concerts/
 [capgemini]: https://www.fr.capgemini.com/experts/telecommunications-medias-et-divertissement
