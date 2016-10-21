@@ -25,16 +25,19 @@ opengraph:
 
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li><a href="#experienceAnchor">Expériences</a></li>
-        <li><a href="#skillsAnchor">Compétences</a></li>
-        <li><a href="#trainingAnchor">Formation</a></li>
-        <li><a href="#miscAnchor">Loisirs</a></li>
-        <li><a href="#contactAnchor">Contact</a></li>
+        <li><a id="experienceAnchorLink" href="#experienceAnchor">Expériences</a></li>
+        <li><a id="skillsAnchorLink" href="#skillsAnchor">Compétences</a></li>
+        <li><a id="trainingAnchorLink" href="#trainingAnchor">Formation</a></li>
+        <li><a id="miscAnchorLink" href="#miscAnchor">Loisirs</a></li>
+        <li><a id="contactAnchorLink" href="#contactAnchor">Contact</a></li>
       </ul>
 
       <div class="navbar-right">
-        <a href="{{ "/resume.html" | prepend: site.baseurl }}" type="button" class="btn btn-default navbar-btn">🇺🇸</a>
         <a href="{{ "/assets/pdf/cv-FR-mickael-flochlay-A4.pdf" | prepend: site.baseurl }}" type="button" class="btn btn-default navbar-btn">Version PDF A4</a>
+        <div class="btn-group" role="group" aria-label="language-selection">
+          <a href="#" type="button" class="btn btn-default active navbar-btn">🇫🇷</a>
+          <a href="{{ "/resume.html" | prepend: site.baseurl }}" type="button" class="btn btn-default navbar-btn">🇺🇸</a>
+        </div>
       </div>
     </div>
   </div>
