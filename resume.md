@@ -5,6 +5,8 @@ description: >
   Detailed résumé of the Paris-based full-stack iOS and web developer Mickaël
   Floc'hlay, available for freelance missions.
 lang: en
+opengraph:
+  image: /assets/images/mick-square.png
 ---
 
 <nav class="navbar navbar-default navbar-fixed-top">

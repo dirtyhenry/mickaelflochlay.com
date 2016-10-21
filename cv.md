@@ -5,6 +5,8 @@ description: >
   CV détaillé en français du développeur full-stack iOS et Web Mickaël Floc'hlay,
   basé à Paris et disponible pour des missions freelance.
 lang: fr
+opengraph:
+  image: /assets/images/mick-square.png
 ---
 
 <nav class="navbar navbar-default navbar-fixed-top">
@@ -31,14 +33,14 @@ lang: fr
       </ul>
 
       <div class="navbar-right">
-        <a href="{{ "resume.html" | prepend: full_base_url }}" type="button" class="btn btn-default navbar-btn">🇺🇸</a>
-        <a href="{{ "assets/pdf/cv-FR-mickael-flochlay-A4.pdf" | prepend: full_base_url }}" type="button" class="btn btn-default navbar-btn">Version PDF A4</a>
+        <a href="{{ "/resume.html" | prepend: site.baseurl }}" type="button" class="btn btn-default navbar-btn">🇺🇸</a>
+        <a href="{{ "/assets/pdf/cv-FR-mickael-flochlay-A4.pdf" | prepend: site.baseurl }}" type="button" class="btn btn-default navbar-btn">Version PDF A4</a>
       </div>
     </div>
   </div>
 </nav>
 
-<img id="profile-picture" src="/assets/images/mick-square.png" alt="Photo de profil de Mickaël Floc'hlay" class="center-block img-responsive img-circle">
+<img id="profile-picture" src="{{ "assets/images/mick-square.png" | prepend: site.baseurl }}" alt="Photo de profil de Mickaël Floc'hlay" class="center-block img-responsive img-circle">
 
 
 # Mickaël Floc'hlay
