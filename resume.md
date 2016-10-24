@@ -79,7 +79,7 @@ Bootstragram was selected by the French startup accelerator Startup42 for a
 Bootstragram team invaluable insight into all the non-technical skills required
 to run a lean startup.
 
-Clients references:
+Client references:
 
 *   [Deezer][deezer]/[Sourdoreille][sourdoreille]: Facebook widget to create
     playlists from upcoming festival lineups. The playlists are personalized
@@ -300,8 +300,8 @@ Intensive two-year course preparing for the competitive entrance examinations to
 
 ### Misc
 
-* Pop culture trivia quiz organisations
-* Cooking amateur
+* Pop culture trivia night host
+* Amateur cooking
 * Aspiring beer brewer
 
 ---
