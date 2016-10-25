@@ -219,7 +219,7 @@ Within Capgemini Telecom Media Défense :
 
 ### Full-Stack Programming
 
-* iOS Experise
+* iOS Expertise
   * Objective-C & Swift
   * Environment tools: cocoapods, fastlane, continuous integration, etc.
   * Experience with most common frameworks: In-App Purchases, Geolocation, Notifications, etc.
