@@ -2,6 +2,7 @@
 layout: cv
 title: My apps
 lang: fr
+sitemap: false
 ---
 
 # My apps

@@ -3,6 +3,7 @@ layout: cv
 title: Développeur iOS Mickaël Floc'hlay
 description: TODO
 lang: fr
+sitemap: false
 ---
 
 # Service

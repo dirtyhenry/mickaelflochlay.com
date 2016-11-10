@@ -40,3 +40,6 @@ sass:
   load_paths:
     - _sass
     - bower_components/bootstrap-sass/assets/stylesheets
+
+gems:
+  - jekyll-sitemap
