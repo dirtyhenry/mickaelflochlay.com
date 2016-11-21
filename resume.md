@@ -7,6 +7,7 @@ description: >
 lang: en
 opengraph:
   image: /assets/images/mick-square.png
+multilangUUID: 9FD6B42F-2A1D-42D4-8BA5-4273707CD9EC
 ---
 
 <nav class="navbar navbar-default navbar-fixed-top">

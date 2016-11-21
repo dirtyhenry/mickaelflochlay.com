@@ -22,6 +22,16 @@
   {% include opengraph.html opengraph=page.opengraph %}
   {% endif %}
 
+  {% if page.multilangUUID %}
+    <link rel="alternate" href="{{page.url}}" hreflang="{{page.lang}}" />
+    {% assign posts=site.pages | where:"multilangUUID", page.multilangUUID %}
+    {% for post in posts %}
+      {% if post.lang != page.lang %}
+        <link rel="alternate" href="{{post.url}}" hreflang="{{post.lang}}" />
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+
   <link rel="mask-icon" href="/website_icon.svg" color="rgb(54, 177, 172)">
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
   <!-- Place favicon.ico in the root directory -->
