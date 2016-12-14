@@ -31,6 +31,7 @@ exclude:
   - excludes.txt
   - node_modules
   - package.json
+permalink: /:categories/:title.html
 
 # Build settings
 markdown: kramdown
