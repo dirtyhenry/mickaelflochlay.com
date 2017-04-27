@@ -52,13 +52,12 @@ multilangUUID: 9FD6B42F-2A1D-42D4-8BA5-4273707CD9EC
 iOS, macOS, web full-stack Developer & Consultant
 {: .lead}
 
-Je suis à la recherche de missions :
+Mon expertise :
 
-* de développement full-stack mobile ou web
-* en conseil de management agile d'équipes techniques
+* développement full-stack mobile ou web
+* conseil de management agile d'équipes techniques
 
 Me contacter :
-
 
 * E-mail : <a href="javascript:window.location.href=atob('bWFpbHRvOm1pY2thZWxAZmxvY2hsYXkuY29tP3N1YmplY3Q9UHJpc2UgZGUgY29udGFjdCZib2R5PUplIHZldXggdHJhdmFpbGxlciBhdmVjIHZvdXMgOik=')" style="unicode-bidi: bidi-override; direction: rtl;">moc.yalhcolf@leakcim</a>
 * Téléphone : <a href="tel:33688597286">+33 6 88 59 72 86</a>
@@ -69,6 +68,7 @@ Me contacter :
 <a id="experienceAnchor" class="anchor"></a>
 
 ## Expériences
+
 
 ### CEO/CTO [Bootstragram][bootstragram] <small>depuis septembre ’14</small>
 
@@ -86,6 +86,8 @@ Références clients :
     automatique sous forme de widget Facebook
 *   [Culturebox][culturebox]/[Sourdoreille][sourdoreille] : réalisation du site
     pour la web-série de concerts [*Les Contes du Paris Perché*][parisperche]
+*   [Flâneur][flaneur] : migration du back-office d'une application iOS de Parse
+    vers Firebase
 *   [Sourdoreille][sourdoreille] : réalisation du site web de sondage décalé
     [*Les Concerts, ce serait mieux sans*][concerts]
 *   [Tabaramounien][tabaramounien] : assistance technique sur des projets
@@ -238,7 +240,7 @@ C/C++, Visual C++, OpenGL, GLSL, DirectX, GPU assembling, CVS.
 ### Programmation Full-stack Web & Mobile
 
 * Expertise iOS
-  * Développement d'applications en Objective-C et Swift
+  * Développement d'applications en Swift et Objective-C
   * Maîtrise des outils d'industrialisation : cocoapods, fastlane, intégration continue, etc.
   * Expérience des frameworks principaux pour gérer les in-app purchases, la géolocalisation,
     les notifications, etc.
@@ -247,9 +249,10 @@ C/C++, Visual C++, OpenGL, GLSL, DirectX, GPU assembling, CVS.
   * Développement et design d'API
   * Base de données PostgresQL
   * Expérience des outils de production : Heroku, New Relic, Docker, intégration
-    continue, etc.  
-* Maîtrise de JavaScript et des environnements et frameworks Node.js,
+    continue, etc.
+* Expertise de JavaScript et des environnements et frameworks Node.js,
   Ember.js, D3.js, CoffeeScript, etc.
+* Maîtrise de Google Firebase
 * Quelques outils de prédilection : Jekyll, GitHub, Fastmail, Amazon S3, Sass, etc.
 
 ### Webdesign
@@ -360,3 +363,4 @@ notamment la plateforme edX. Mes cours récents :
 [tgs]: http://www.vsg3d.com
 [ENSEIRB]: http://www.enseirb-matmeca.fr
 [edX]: https://www.edx.org
+[flaneur]: http://www.flaneurapp.com

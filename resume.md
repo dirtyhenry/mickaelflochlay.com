@@ -88,6 +88,8 @@ Client references:
 *   [Culturebox][culturebox]/[Sourdoreille][sourdoreille]: a dynamic and
     visually unique website for the concert web series
     [*Les Contes du Paris Perché*][parisperche]
+*   [Flâneur][flaneur]: migration of the back-office of an iOS application from
+    Parse to Firebase
 *   [Sourdoreille][sourdoreille]: a visually innovative polling website for the
     comedy project [*Les Concerts, ce serait mieux sans*][concerts]
     ("Concerts would be better off without")
@@ -221,7 +223,7 @@ Within Capgemini Telecom Media Défense :
 ### Full-Stack Programming
 
 * iOS Expertise
-  * Objective-C & Swift
+  * Swift & Objective-C
   * Environment tools: cocoapods, fastlane, continuous integration, etc.
   * Experience with most common frameworks: In-App Purchases, Geolocation, Notifications, etc.
 * Ruby and Ruby on Rails Expertise
@@ -230,7 +232,7 @@ Within Capgemini Telecom Media Défense :
   * PostgresQL database
   * Experience with deployment/production tools: Heroku, New Relic, Docker, continuous integration, etc.  
 * JavaScript expert, experience of Node.js, Ember.js, D3.js, CoffeeScript, etc.
-* Tools of choice: Jekyll, GitHub, Fastmail, Amazon S3, Sass, etc.
+* Tools of choice: Jekyll, GitHub, Fastmail, Amazon S3, Sass, Google Firebase, etc.
 
 ### Webdesign
 
@@ -343,3 +345,4 @@ Intensive two-year course preparing for the competitive entrance examinations to
 [tgs]: http://www.vsg3d.com
 [ENSEIRB]: http://www.enseirb-matmeca.fr
 [edX]: https://www.edx.org
+[flaneur]: http://www.flaneurapp.com
