@@ -23,12 +23,9 @@
   {% endif %}
 
   {% if page.multilangUUID %}
-    <link rel="alternate" href="{{page.url}}" hreflang="{{page.lang}}" />
     {% assign posts=site.pages | where:"multilangUUID", page.multilangUUID %}
     {% for post in posts %}
-      {% if post.lang != page.lang %}
-        <link rel="alternate" href="{{post.url}}" hreflang="{{post.lang}}" />
-      {% endif %}
+      <link rel="alternate" href="{{ post.url }}" hreflang="{{ post.lang }}" />
     {% endfor %}
   {% endif %}
 
