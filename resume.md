@@ -270,6 +270,7 @@ Basics of typography rules, for screens and papers.
 
 I keep training myself on new subjects via the edX platform.
 
+* ’16 : Learning From Data (introductory Machine Learning course) (Caltech)
 * ’15 : Marketing for non-marketers (UBC)
 * ’15 : The Analytics Edge (MIT)
 * ’14 : Sabermetrics 101: Introduction to Baseball Analytics (BU)

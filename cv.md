@@ -290,6 +290,7 @@ Bonne connaissance des règles de la typographie, sur écran et papier.
 Je me forme en continu sur des sujets nouveaux via des formations en ligne,
 notamment la plateforme edX. Mes cours récents :
 
+* ’16 : Learning From Data (introductory Machine Learning course) (Caltech)
 * ’15 : Marketing for non-marketers (UBC)
 * ’15 : The Analytics Edge (MIT)
 * ’14 : Sabermetrics 101: Introduction to Baseball Analytics (BU)
