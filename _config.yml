@@ -21,7 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mickaelflochlay.com.dev" # the base hostname & protocol for your site
 twitter_username: dirtyhenry
 github_username:  dirtyhenry
-destination: ~/Developer/build/mickaelflochlay.com-gh-pages
+destination: ./_site
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -35,12 +35,38 @@ permalink: /:categories/:title.html
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: bsg-theme
+
+menu:
+  item0:
+    title: CV
+    path: resume.html
+  item1:
+    title: Projects
+    path: projects.html
+
+submenus:
+  cv:
+    item0:
+      title: Experience
+      path: '#experienceAnchor'
+    item1:
+      title: Skills
+      path: '#skillsAnchor'
+    item2:
+      title: Education
+      path: '#trainingAnchor'
+    item3:
+      title: Interests
+      path: '#miscAnchor'
+    item4:
+      title: Contact
+      path: '#contactAnchor'
 
 sass:
   load_paths:
     - _sass
     - bower_components/bootstrap-sass/assets/stylesheets
 
-gems:
+plugins:
   - jekyll-sitemap

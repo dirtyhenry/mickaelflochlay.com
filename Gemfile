@@ -12,7 +12,7 @@ ruby "2.2.5"
 gem "jekyll", "~> 3.0"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima"
+gem "bsg-theme", git: "https://github.com/Bootstragram/bsg-theme"
 
 gem "jekyll-sitemap"
 

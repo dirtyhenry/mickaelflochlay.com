@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: default
 title: "iOS & Web Developer: Mickaël Floc’hlay"
 description: >
   My detailed résumé. I'm a Paris-based full-stack iOS and web developer
@@ -8,41 +8,16 @@ lang: en
 opengraph:
   image: /assets/images/mick-square.png
 multilangUUID: 9FD6B42F-2A1D-42D4-8BA5-4273707CD9EC
+submenu: cv
 ---
 
-<nav class="navbar navbar-default navbar-fixed-top">
-  <div class="container">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="{{ full_base_url }}">
-        Mickaël Floc'hlay
-      </a>
-    </div>
-
-    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-      <ul class="nav navbar-nav">
-        <li><a id="experienceAnchorLink" href="#experienceAnchor">Experience</a></li>
-        <li><a id="skillsAnchorLink" href="#skillsAnchor">Skills</a></li>
-        <li><a id="trainingAnchorLink" href="#trainingAnchor">Education</a></li>
-        <li><a id="miscAnchorLink" href="#miscAnchor">Interests</a></li>
-        <li><a id="contactAnchorLink" href="#contactAnchor">Contact</a></li>
-      </ul>
-
-      <div class="navbar-right">
-        <a href="{{ "assets/pdf/cv-EN-mickael-flochlay-Letter.pdf" | prepend: full_base_url }}" type="button" class="btn btn-default navbar-btn">PDF Letter Version</a>
-        <div class="btn-group" role="group" aria-label="language-selection">
-          <a href="{{ "cv.html" | prepend: full_base_url }}" type="button" class="btn btn-default navbar-btn">🇫🇷</a>
-          <a href="#" type="button" class="btn btn-default active navbar-btn">🇺🇸</a>
-        </div>
-      </div>
-    </div>
+<div class="navbar-right">
+  <a href="{{ "assets/pdf/cv-EN-mickael-flochlay-Letter.pdf" | prepend: full_base_url }}" type="button" class="btn btn-default navbar-btn">PDF Letter Version</a>
+  <div class="btn-group" role="group" aria-label="language-selection">
+    <a href="{{ "cv.html" | prepend: full_base_url }}" type="button" class="btn btn-default navbar-btn">🇫🇷</a>
+    <a href="#" type="button" class="btn btn-default active navbar-btn">🇺🇸</a>
   </div>
-</nav>
+</div>
 
 <img id="profile-picture" src="/assets/images/mick-square.png" alt="Profile picture of Mickaël Floc'hlay" class="center-block img-responsive img-circle">
 

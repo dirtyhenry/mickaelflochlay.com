@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: default
 title: Développeur iOS Mickaël Floc'hlay
 description: Le site web du développeur freelance iOS et web Mickaël Floc'hlay
 lang: fr
