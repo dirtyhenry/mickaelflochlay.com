@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "iOS & Web Developer: Mickaël Floc’hlay"
+title: "iOS Senior Developer & Agile Manager"
 description: >
   My detailed résumé. I'm a Paris-based full-stack iOS and web developer
   and I am available to provide freelance developer services.
@@ -11,25 +11,46 @@ multilangUUID: 9FD6B42F-2A1D-42D4-8BA5-4273707CD9EC
 submenu: cv
 ---
 
-<div class="navbar-right">
-  <a href="{{ "assets/pdf/cv-EN-mickael-flochlay-Letter.pdf" | prepend: full_base_url }}" type="button" class="btn btn-default navbar-btn">PDF Letter Version</a>
-  <div class="btn-group" role="group" aria-label="language-selection">
-    <a href="{{ "cv.html" | prepend: full_base_url }}" type="button" class="btn btn-default navbar-btn">🇫🇷</a>
-    <a href="#" type="button" class="btn btn-default active navbar-btn">🇺🇸</a>
+<div class="level">
+  <div class="level-left">
+    <div class="level-item">
+      <img id="profile-picture" src="/assets/images/mick-square.png" alt="Profile picture of Mickaël Floc'hlay" class="center-block img-responsive img-circle">
+    </div>
+  </div>
+  <div class="level-right">
+    <div class="level-item">
+      <div class="field is-grouped">
+        <p class="control">
+          <a class="button is-primary" href="{{ "assets/pdf/cv-EN-mickael-flochlay-Letter.pdf" | prepend: full_base_url }}">
+            <span class="icon">
+              <i class="fa fa-download"></i>
+            </span>
+            <span>PDF Letter Version</span>
+          </a>
+        </p>
+        <p class="control">
+          <a class="button" href="{{ "cv.html" | prepend: full_base_url }}">
+          🇫🇷
+          </a>
+        </p>
+        <p class="control">
+          <a class="button is-active" href="#">
+          🇺🇸
+          </a>
+        </p>
+      </div>
+    </div>
   </div>
 </div>
 
-<img id="profile-picture" src="/assets/images/mick-square.png" alt="Profile picture of Mickaël Floc'hlay" class="center-block img-responsive img-circle">
-
-
 # Mickaël Floc'hlay
 
-iOS, macOS, web full-stack Developer & Consultant
+iOS Senior Developer & Agile Manager
 {: .lead}
 
 I am available for the following tpyes of missions:
 
-* Full-stack mobile iOS & Web development
+* Full-stack mobile iOS development
 * Agile technical team management consulting
 
 How to contact me:
@@ -289,15 +310,47 @@ Intensive two-year course preparing for the competitive entrance examinations to
 
 ## Contact
 
-<div class="btn-group" role="group" aria-label="...">
-  <a href="javascript:window.location.href=atob('bWFpbHRvOm1pY2thZWxAZmxvY2hsYXkuY29tP3N1YmplY3Q9UHJpc2UgZGUgY29udGFjdCZib2R5PUplIHZldXggdHJhdmFpbGxlciBhdmVjIHZvdXMgOik=')" type="button" class="btn btn-default"><i class="fa fa-envelope" aria-hidden="true"></i> Email</a>
-  <a href="tel:33688597286" type="button" class="btn btn-default"><i class="fa fa-phone" aria-hidden="true"></i> Phone</a>
-  <a href="https://fr.linkedin.com/in/mickaelflochlay" type="button" class="btn btn-default"><i class="fa fa-linkedin" aria-hidden="true"></i> LinkedIn</a>
-  <a href="https://twitter.com/dirtyhenry" type="button" class="btn btn-default"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter</a>
-  <a href="https://github.com/dirtyhenry" type="button" class="btn btn-default"><i class="fa fa-github" aria-hidden="true"></i> GitHub</a>
-  <a href="http://stackoverflow.com/users/455016/dirty-henry?tab=profile" type="button" class="btn btn-default"><i class="fa fa-stack-overflow" aria-hidden="true"></i> Stack Overflow</a>
+<div class="level">
+  <div class="level-left"></div>
+  <div class="level-item">
+  <p class="control">
+      <a href="javascript:window.location.href=atob('bWFpbHRvOm1pY2thZWxAZmxvY2hsYXkuY29tP3N1YmplY3Q9UHJpc2UgZGUgY29udGFjdCZib2R5PUplIHZldXggdHJhdmFpbGxlciBhdmVjIHZvdXMgOik=')" class="button">
+        <span class="icon">
+          <i class="fa fa-envelope"></i>
+        </span>
+        <span>Email</span>
+      </a>
+    </p>
+  </div>
+  <div class="level-item">
+  <p class="control">
+      <a href="javascript:window.location.href=atob('bWFpbHRvOm1pY2thZWxAZmxvY2hsYXkuY29tP3N1YmplY3Q9UHJpc2UgZGUgY29udGFjdCZib2R5PUplIHZldXggdHJhdmFpbGxlciBhdmVjIHZvdXMgOik=')" class="button">
+        <span class="icon">
+          <i class="fa fa-envelope"></i>
+        </span>
+        <span>Email</span>
+      </a>
+    </p>
+  </div>
 </div>
 
+
+  <div class="level-item">
+    <a href="tel:33688597286" type="button" class="btn btn-default"><i class="fa fa-phone" aria-hidden="true"></i> Phone</a>
+  </div>
+  <div class="level-item">
+    <a href="https://fr.linkedin.com/in/mickaelflochlay" type="button" class="btn btn-default"><i class="fa fa-linkedin" aria-hidden="true"></i> LinkedIn</a>
+  </div>
+  <div class="level-item">
+    <a href="https://twitter.com/dirtyhenry" type="button" class="btn btn-default"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter</a>
+  </div>
+  <div class="level-item">
+    <a href="https://github.com/dirtyhenry" type="button" class="btn btn-default"><i class="fa fa-github" aria-hidden="true"></i> GitHub</a>
+  </div>
+  <div class="level-item">
+    <a href="http://stackoverflow.com/users/455016/dirty-henry?tab=profile" type="button" class="btn btn-default"><i class="fa fa-stack-overflow" aria-hidden="true"></i> Stack Overflow</a>
+  </div>
+</div>
 
 [bootstragram]: http://bootstragram.com
 [profile-picture]: /assets/images/cv-photo.png

@@ -1,6 +1,10 @@
 /**
 */
 
+.img-circle {
+    border-radius: 50%;
+}
+
 // New variables
 // -------------
 $apple-wwdc-color: rgb(44, 47, 62);
@@ -85,9 +89,6 @@ a {
   }
 }
 
-#profile-picture {
-  height: 10em;
-}
 
 a.anchor {
   display: block;
