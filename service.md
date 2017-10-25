@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: default
 title: Développeur iOS Mickaël Floc'hlay
 description: TODO
 lang: fr

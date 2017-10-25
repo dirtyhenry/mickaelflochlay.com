@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: default
 title: "Développeur iOS et web : Mickaël Floc’hlay"
 description: >
   Mon CV détaillé. Je suis un développeur full-stack iOS et Web basé à Paris

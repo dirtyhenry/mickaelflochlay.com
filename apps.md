@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: default
 title: My apps
 lang: fr
 sitemap: false

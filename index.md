@@ -16,7 +16,3 @@ I like music, football (aka soccer) and developing.
 * [Dead Rooster](http://deadrooster.org) for music/movies/cultural things
 
 Have a good one.
-
-<a href="cv.html" type="button" class="btn btn-default">CV en français</a>
-
-<a href="resume.html" type="button" class="btn btn-default">English Resume</a>

@@ -1,32 +1,3 @@
-/***
-    With help from http://kaikkonendesign.fi/typography/
- */
-/* Color palette: http://www.colourlovers.com/palette/149132/Blue_Hippopotamus */
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: "source-sans-pro", sans-serif;
-}
-body {
-  line-height: 1.5em;
-  color: #444444;
-  font-family: "calluna", serif;
-  font-size: 1.9em;
-  background-color: #fafafa;
-  padding-top: 60px;
-  position: relative;
-}
-body .container {
-  max-width: 724px;
-  padding: 0;
-}
-body .popover-content {
-  font-size: 0.9em;
-  line-height: 1.2em;
-}
 nav.navbar-inverse {
   background-color: rgba(69, 72, 87, 0.8);
   color: #fafafa;

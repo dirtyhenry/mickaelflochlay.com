@@ -39,7 +39,7 @@ theme: bsg-theme
 
 menu:
   item0:
-    title: CV
+    title: Resume
     path: resume.html
   item1:
     title: Projects

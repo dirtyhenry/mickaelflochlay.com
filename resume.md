@@ -9,6 +9,8 @@ opengraph:
   image: /assets/images/mick-square.png
 multilangUUID: 9FD6B42F-2A1D-42D4-8BA5-4273707CD9EC
 submenu: cv
+extra_js:
+  - cv-reveal-modal
 ---
 
 <div class="level">
@@ -48,10 +50,10 @@ submenu: cv
 iOS Senior Developer & Agile Manager
 {: .lead}
 
-I am available for the following tpyes of missions:
+I am available for:
 
 * Full-stack mobile iOS development
-* Agile technical team management consulting
+* Agile technical team management and consulting
 
 How to contact me:
 
@@ -65,16 +67,26 @@ How to contact me:
 
 ## Experience
 
-### CEO/CTO [Bootstragram][bootstragram] <small>since september ’14</small>
+### CTO [Flâneur][flaneur] <small>since january ’17</small>
+
+* Migrated the back-office from Parse to Firebase on a tight schedule as Parse shutdown was approaching.
+* Redesigned the software architecture from legacy code coming from two different web agencies, to a Kickstarter-inspired MVVM architecture.
+* Improved the search feature using Algolia integration with Firebase cloud functions.
+* Full-UI redesign implementation.
+
+### Founder [Statium][statium] <small>since september ’14</small>
+
+* Statium is a platform to adapt US sport analytics data to soccer fans.
+* Statium was selected by the French startup accelerator Startup42 for a
+4-month intensive program from April - August 2016, during which I had invaluable insight into all the non-technical skills required to run a lean startup.
+* Designed some machine learning models to evaluate soccer players.
+* Built data visualization tools for the web.
+* Statium is now a side-project: I intend to submit my model at the OPTA Pro Forum in Septembre 2018.
+
+### Founder [Bootstragram][bootstragram] <small>september ’14 / december ’16</small>
 
 I co-founded Bootstragram in order to provide freelance developer services to
-other companies as well as develop my own project [Statium][statium], a smart
-soccer calendar for soccer fans.
-
-Bootstragram was selected by the French startup accelerator Startup42 for a
-4-month intensive program from April - August 2016.  Start42 brought me and the
-Bootstragram team invaluable insight into all the non-technical skills required
-to run a lean startup.
+other companies with the ultimate objective to fund [Statium][statium].
 
 Client references:
 
@@ -84,8 +96,6 @@ Client references:
 *   [Culturebox][culturebox]/[Sourdoreille][sourdoreille]: a dynamic and
     visually unique website for the concert web series
     [*Les Contes du Paris Perché*][parisperche]
-*   [Flâneur][flaneur]: migration of the back-office of an iOS application from
-    Parse to Firebase
 *   [Sourdoreille][sourdoreille]: a visually innovative polling website for the
     comedy project [*Les Concerts, ce serait mieux sans*][concerts]
     ("Concerts would be better off without")
@@ -108,9 +118,15 @@ Client references:
 
 ### Freelance <small>june ’10 / january ’12</small>
 
-<a role="button" data-toggle="collapse" href="#detailsFreelance">details</a>
+<a class="modal-button" data-target="detailsFreelance">details</a>
 
-<div class="collapse" id="detailsFreelance">
+<div class="modal" id="detailsFreelance">
+<div class="modal-background"></div>
+<div class="modal-card">
+<header class="modal-card-head">
+<p class="modal-card-title">Details</p>
+</header>
+<section class="modal-card-body">
 * iOS and macOS apps development
 * Web apps and services development
 * Agile mobile consultant
@@ -120,6 +136,11 @@ Client references:
     *   [eduPad][eduPad]: iOS consulting
     *   [Scimob][scimob]: iOS consulting
     *   Picapoc: web & iOS consulting
+</section>
+<footer class="modal-card-foot">
+</footer>
+</div>
+<button class="modal-close is-large" aria-label="close"></button>
 </div>
 
 ### Innovation & Mobile Project Manager [Capgemini][capgemini] <small>april ’09 / june ’10</small>
@@ -324,31 +345,53 @@ Intensive two-year course preparing for the competitive entrance examinations to
   </div>
   <div class="level-item">
   <p class="control">
-      <a href="javascript:window.location.href=atob('bWFpbHRvOm1pY2thZWxAZmxvY2hsYXkuY29tP3N1YmplY3Q9UHJpc2UgZGUgY29udGFjdCZib2R5PUplIHZldXggdHJhdmFpbGxlciBhdmVjIHZvdXMgOik=')" class="button">
-        <span class="icon">
-          <i class="fa fa-envelope"></i>
-        </span>
-        <span>Email</span>
-      </a>
-    </p>
-  </div>
-</div>
-
-
-  <div class="level-item">
-    <a href="tel:33688597286" type="button" class="btn btn-default"><i class="fa fa-phone" aria-hidden="true"></i> Phone</a>
+    <a href="tel:33688597286" class="button">
+      <span class="icon">
+        <i class="fa fa-phone"></i>
+      </span>
+      <span>Phone</span>
+    </a>
+  </p>
   </div>
   <div class="level-item">
-    <a href="https://fr.linkedin.com/in/mickaelflochlay" type="button" class="btn btn-default"><i class="fa fa-linkedin" aria-hidden="true"></i> LinkedIn</a>
+  <p class="control">
+    <a href="https://fr.linkedin.com/in/mickaelflochlay" class="button">
+      <span class="icon">
+        <i class="fa fa-linkedin"></i>
+      </span>
+      <span>LinkedIn</span>
+    </a>
+  </p>
   </div>
   <div class="level-item">
-    <a href="https://twitter.com/dirtyhenry" type="button" class="btn btn-default"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter</a>
+  <p class="control">
+    <a href="https://twitter.com/dirtyhenry" class="button">
+      <span class="icon">
+        <i class="fa fa-twitter"></i>
+      </span>
+      <span>Twitter</span>
+    </a>
+  </p>
   </div>
   <div class="level-item">
-    <a href="https://github.com/dirtyhenry" type="button" class="btn btn-default"><i class="fa fa-github" aria-hidden="true"></i> GitHub</a>
+  <p class="control">
+    <a href="https://github.com/dirtyhenry" class="button">
+      <span class="icon">
+        <i class="fa fa-github"></i>
+      </span>
+      <span>GitHub</span>
+    </a>
+  </p>
   </div>
   <div class="level-item">
-    <a href="http://stackoverflow.com/users/455016/dirty-henry?tab=profile" type="button" class="btn btn-default"><i class="fa fa-stack-overflow" aria-hidden="true"></i> Stack Overflow</a>
+  <p class="control">
+    <a href="http://stackoverflow.com/users/455016/dirty-henry?tab=profile" class="button">
+      <span class="icon">
+        <i class="fa fa-stack-overflow"></i>
+      </span>
+      <span>Stack Overflow</span>
+    </a>
+  </p>
   </div>
 </div>
 
