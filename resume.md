@@ -8,7 +8,7 @@ lang: en
 opengraph:
   image: /assets/images/mick-square.png
 multilangUUID: 9FD6B42F-2A1D-42D4-8BA5-4273707CD9EC
-submenu: cv
+submenu: resume
 extra_js:
   - cv-reveal-modal
 ---
@@ -70,15 +70,15 @@ How to contact me:
 ### CTO [Flâneur][flaneur] <small>since january ’17</small>
 
 * Migrated the back-office from Parse to Firebase on a tight schedule as Parse shutdown was approaching.
-* Redesigned the software architecture from legacy code coming from two different web agencies, to a Kickstarter-inspired MVVM architecture.
+* Redesigned the software architecture from legacy code (coming from two different web agencies), to a Kickstarter-inspired MVVM architecture in Swift.
 * Improved the search feature using Algolia integration with Firebase cloud functions.
 * Full-UI redesign implementation.
 
 ### Founder [Statium][statium] <small>since september ’14</small>
 
-* Statium is a platform to adapt US sport analytics data to soccer fans.
+* Statium is a platform to provide advanced statistics (inspired by US sports advanced statistics) to soccer fans.
 * Statium was selected by the French startup accelerator Startup42 for a
-4-month intensive program from April - August 2016, during which I had invaluable insight into all the non-technical skills required to run a lean startup.
+4-month intensive program from April - August 2016, during which I had invaluable insight into all the non-technical skills required to found a startup.
 * Designed some machine learning models to evaluate soccer players.
 * Built data visualization tools for the web.
 * Statium is now a side-project: I intend to submit my model at the OPTA Pro Forum in Septembre 2018.
@@ -95,38 +95,29 @@ Client references:
     according to the user's musical taste.
 *   [Culturebox][culturebox]/[Sourdoreille][sourdoreille]: a dynamic and
     visually unique website for the concert web series
-    [*Les Contes du Paris Perché*][parisperche]
+    [*Les Contes du Paris Perché*][parisperche].
 *   [Sourdoreille][sourdoreille]: a visually innovative polling website for the
     comedy project [*Les Concerts, ce serait mieux sans*][concerts]
-    ("Concerts would be better off without")
+    ("Concerts would be better off without").
 *   [Tabaramounien][tabaramounien]/[N/ËW][newschool]: a web-based SVG editor for
-    creating slide presentations
+    creating slide presentations.
 *   [Tabaramounien][tabaramounien]: technical assistance on interactive projets
-    for Bordeaux's local government
+    for Bordeaux's local government.
 *   [*Petites Musiques de Trains*][trains]: a website and iOS app for a web
     series that involves discovering local music on a 2-month train journey
-    (Mexico, Bolivia)
+    (Mexico, Bolivia).
 
 ### CTO [eduPad][eduPad] <small>january ’12 / august ’14</small>
 
-*   Recruited and managed technical team of 5 developers, using agile methods inspired by scrum
-*   Developed an app factory for eduPad's 100+ apps (iOS & Android)
-*   Designed and developed a scalable back-office to support eduPad's growth from 5k to 250k monthly average downloads, as well as even more intense peaks during marketing campaigns.
-*   Over 8.4M apps downloads during my experience at eduPad
+*   Recruited and managed technical team of 5 developers, using agile methods inspired by scrum.
+*   Developed an app factory for eduPad's 100+ apps (iOS & Android).
+*   Designed and developed a scalable back-office to support eduPad's growth from 5k to 250k monthly. average downloads, as well as even more intense peaks during marketing campaigns.
+*   Over 8.4M apps downloads during my experience at eduPad.
 
 {::options parse_block_html="true" /}
 
 ### Freelance <small>june ’10 / january ’12</small>
 
-<a class="modal-button" data-target="detailsFreelance">details</a>
-
-<div class="modal" id="detailsFreelance">
-<div class="modal-background"></div>
-<div class="modal-card">
-<header class="modal-card-head">
-<p class="modal-card-title">Details</p>
-</header>
-<section class="modal-card-body">
 * iOS and macOS apps development
 * Web apps and services development
 * Agile mobile consultant
@@ -136,18 +127,9 @@ Client references:
     *   [eduPad][eduPad]: iOS consulting
     *   [Scimob][scimob]: iOS consulting
     *   Picapoc: web & iOS consulting
-</section>
-<footer class="modal-card-foot">
-</footer>
-</div>
-<button class="modal-close is-large" aria-label="close"></button>
-</div>
 
 ### Innovation & Mobile Project Manager [Capgemini][capgemini] <small>april ’09 / june ’10</small>
 
-<a role="button" data-toggle="collapse" href="#detailsCapgemini1">details</a>
-
-<div class="collapse" id="detailsCapgemini1">
 Within Capgemini Telecom Media Défense:
 
 *   Identified, qualified and tested innovative mobile services for the Orange
@@ -157,26 +139,18 @@ Within Capgemini Telecom Media Défense:
     iPad, Android and BlackBerry applications for Orange, Lyonnaise des Eaux
     (GDF Suez group), Natixis and the Capgemini Group
 *   Responsible for team's schedule, budget and reports
-</div>
 
 ### Java Consultant [Capgemini][capgemini] <small>december ’08 / april ’09</small>
 
-<a role="button" data-toggle="collapse" href="#detailsCapgemini2">details</a>
-
-<div class="collapse" id="detailsCapgemini2">
 Within Capgemini Telecom Media Défense:
 
 * Audited java code and project methods, introducing revision control software
   and continuous integration best practices to secure, improve and fasten
   software deliveries
 * Introduced agile philosophy and methods for development teams
-</div>
 
 ### Java Technical Manager [Canal+][cplus]/[Capgemini][capgemini] <small>december ’05 / december ’08</small>
 
-<a role="button" data-toggle="collapse" href="#detailsCapgemini3">details</a>
-
-<div class="collapse" id="detailsCapgemini3">
 *   Client: Canal+ (French premium pay television channel)
 *   Project “Droits et Terminaux” (“Rights and Terminals”): Design and
     realisation from scratch of the customer rights' management system of all
@@ -189,13 +163,9 @@ Within Capgemini Telecom Media Défense:
 *   Promoted to Technical Manager of system, coaching 5-person development team
     in a Scrum-like method, designing updates and drafting technical
     specifications.
-</div>
 
 ### Java Developer [Capgemini][capgemini] <small>january ’05 / december ’05</small>
 
-<a role="button" data-toggle="collapse" href="#detailsCapgemini4">details</a>
-
-<div class="collapse" id="detailsCapgemini4">
 Within Capgemini Telecom Media Défense :
 
 *   Specifications, conception, and development of the integration of the Comverse
@@ -208,19 +178,14 @@ Within Capgemini Telecom Media Défense :
 *   Development of a statistics and indicators aggregation application and of a
     web interface to display and administrate this data during the integration
     of the Netegrity Single Sign On solution into SFR's service platform.
-</div>
 
 ### C++ 3D Developer [TGS][tgs] <small>february ’04 / september ’04</small>
 
-<a role="button" data-toggle="collapse" href="#detailsTGS">details</a>
-
-<div class="collapse" id="detailsTGS">
 * Scholar Intership
 * Integrated the GLSL GPU-programming language in Open Inventor
 * Developed GLSL support demos
 * Researched about GPU-programming possibilities
 * Technical environment: C/C++, Visual C++, OpenGL, GLSL, DirectX, GPU assembly
-</div>
 
 ---
 
@@ -254,7 +219,7 @@ Within Capgemini Telecom Media Défense :
 ### Webdesign
 
 I'm by no mean a graphic designer, but I have a basic knowledge of software such
-as Photoshop, Pixelmator, Graphics or Sketch, which allows me to be autonomous
+as Photoshop, Pixelmator, Graphics, Sketch/Zeplin, which allows me to be autonomous
 to export or reproduice with software contents of source files provided by designers.
 I can also extend existing brand design guidelines.
 
@@ -360,16 +325,6 @@ Intensive two-year course preparing for the competitive entrance examinations to
         <i class="fa fa-linkedin"></i>
       </span>
       <span>LinkedIn</span>
-    </a>
-  </p>
-  </div>
-  <div class="level-item">
-  <p class="control">
-    <a href="https://twitter.com/dirtyhenry" class="button">
-      <span class="icon">
-        <i class="fa fa-twitter"></i>
-      </span>
-      <span>Twitter</span>
     </a>
   </p>
   </div>

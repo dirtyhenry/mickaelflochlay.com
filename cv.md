@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Développeur iOS et web : Mickaël Floc’hlay"
+title: "Développeur Sénior iOS et Manager Agile"
 description: >
   Mon CV détaillé. Je suis un développeur full-stack iOS et Web basé à Paris
   et je suis disponible pour des missions de développement en freelance.
@@ -8,54 +8,52 @@ lang: fr
 opengraph:
   image: /assets/images/mick-square.png
 multilangUUID: 9FD6B42F-2A1D-42D4-8BA5-4273707CD9EC
+submenu: cv
+extra_js:
+  - cv-reveal-modal
 ---
 
-<nav class="navbar navbar-default navbar-fixed-top">
-  <div class="container">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="{{ site.url | append: site.baseurl }}">
-        Mickaël Floc'hlay
-      </a>
+<div class="level">
+  <div class="level-left">
+    <div class="level-item">
+      <img id="profile-picture" src="/assets/images/mick-square.png" alt="Profile picture of Mickaël Floc'hlay" class="center-block img-responsive img-circle">
     </div>
-
-    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-      <ul class="nav navbar-nav">
-        <li><a id="experienceAnchorLink" href="#experienceAnchor">Expériences</a></li>
-        <li><a id="skillsAnchorLink" href="#skillsAnchor">Compétences</a></li>
-        <li><a id="trainingAnchorLink" href="#trainingAnchor">Formation</a></li>
-        <li><a id="miscAnchorLink" href="#miscAnchor">Loisirs</a></li>
-        <li><a id="contactAnchorLink" href="#contactAnchor">Contact</a></li>
-      </ul>
-
-      <div class="navbar-right">
-        <a href="{{ "/assets/pdf/cv-FR-mickael-flochlay-A4.pdf" | prepend: site.baseurl }}" type="button" class="btn btn-default navbar-btn">Version PDF A4</a>
-        <div class="btn-group" role="group" aria-label="language-selection">
-          <a href="#" type="button" class="btn btn-default active navbar-btn">🇫🇷</a>
-          <a href="{{ "/resume.html" | prepend: site.baseurl }}" type="button" class="btn btn-default navbar-btn">🇺🇸</a>
-        </div>
+  </div>
+  <div class="level-right">
+    <div class="level-item">
+      <div class="field is-grouped">
+        <p class="control">
+          <a class="button is-primary" href="{{ "assets/pdf/cv-FR-mickael-flochlay-A4.pdf" | prepend: full_base_url }}">
+            <span class="icon">
+              <i class="fa fa-download"></i>
+            </span>
+            <span>Version PDF A4</span>
+          </a>
+        </p>
+        <p class="control">
+          <a class="button is-active" href="#">
+          🇫🇷
+          </a>
+        </p>
+        <p class="control">
+          <a class="button" href="{{ "resume.html" | prepend: full_base_url }}">
+          🇺🇸
+          </a>
+        </p>
       </div>
     </div>
   </div>
-</nav>
-
-<img id="profile-picture" src="{{ "assets/images/mick-square.png" | prepend: site.baseurl }}" alt="Photo de profil de Mickaël Floc'hlay" class="center-block img-responsive img-circle">
-
+</div>
 
 # Mickaël Floc'hlay
 
-iOS, macOS, web full-stack Developer & Consultant
+Développeur Sénior iOS & Manager Agile
 {: .lead}
 
 Mon expertise :
 
-* développement full-stack mobile ou web
-* conseil de management agile d'équipes techniques
+* développement full-stack mobile iOS
+* conseil en management agile d'équipes techniques
 
 Me contacter :
 

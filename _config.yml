@@ -41,12 +41,25 @@ menu:
   item0:
     title: Resume
     path: resume.html
-  item1:
-    title: Projects
-    path: projects.html
 
 submenus:
   cv:
+    item0:
+      title: Expériences
+      path: '#experienceAnchor'
+    item1:
+      title: Compétences
+      path: '#skillsAnchor'
+    item2:
+      title: Formation
+      path: '#trainingAnchor'
+    item3:
+      title: Loisirs
+      path: '#miscAnchor'
+    item4:
+      title: Contact
+      path: '#contactAnchor'
+  resume:
     item0:
       title: Experience
       path: '#experienceAnchor'
