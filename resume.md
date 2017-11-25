@@ -81,7 +81,7 @@ How to contact me:
 4-month intensive program from April - August 2016, during which I had invaluable insight into all the non-technical skills required to found a startup.
 * Designed some machine learning models to evaluate soccer players.
 * Built data visualization tools for the web.
-* Statium is now a side-project: I intend to submit my model at the OPTA Pro Forum in Septembre 2018.
+* Statium is now a side-project: I intend to submit my model at the OPTA Pro Forum in September 2018.
 
 ### Founder [Bootstragram][bootstragram] <small>september ’14 / december ’16</small>
 

@@ -68,15 +68,27 @@ Me contacter :
 ## Expériences
 
 
+### CTO [Flâneur][flaneur] <small>depuis janvier ’17</small>
+
+* Migration du back-office de Parse vers Firebase, avec un planning serré car la date de fermeture de Parse approchait.
+* Migration du code *legacy*, provenant de 2 agences web, vers une architecture utilisant le version de MVVM développée par Kickstarter, en Swift.
+* Amélioration de la recherche dans l'app via une intégration temps-réel entre Algolia et Firebase *cloud functions*.
+* Redesign complet de l'interface utilisateur.
+
+### Founder [Statium][statium] <small>since september ’14</small>
+
+* Statium est une plateforme offrant aux fans de football des statistiques avancées
+inspirées des statistiques avancées des sports américains.
+* Statium a été sélectionné par l'accélérateur de startups Startup42 pour un programme intensif de
+4 mois d'avril à août 2016, durant lequel j'ai beaucoup appris sur tous les aspects non-techniques de l'entreprenariat dans un contexte de startups.
+* Design de modèles de *machine learning* pour évaluer les joueurs de football.
+* Outils de visualisation de données intéractifs pour le web.
+* Statium est désormais un *side-project*: j'ai l'intention de soumettre mon modèle au forum OPTA Pro en Septembre 2018.
+
 ### CEO/CTO [Bootstragram][bootstragram] <small>depuis septembre ’14</small>
 
 J'ai cofondé Bootstragram (SAS) afin de fournir mes services de développeur en
-freelance, et d'y développer [Statium][statium] — un calendrier intelligent pour
-les fans de football.
-
-Ce projet a été sélectionné par Startup42, un accélérateur de
-startups qui nous a formé courant 2016 à nous former sur tous les aspects
-non techniques du développement d'une lean startup.
+freelance, dans l'ultime but de financer [Statium][statium].
 
 Références clients :
 
@@ -108,9 +120,6 @@ Références clients :
 
 ### Freelance <small>juin ’10 / janvier ’12</small>
 
-<a role="button" data-toggle="collapse" href="#detailsFreelance">détails</a>
-
-<div class="collapse" id="detailsFreelance">
 * Développement de logiciels pour iOS et Mac OS X
 * Développement de services et applications web
 * Consultant en informatique avec expertise en méthodes agiles (Lean, Scrum) et en mobilité
@@ -120,13 +129,9 @@ Références clients :
     *   [eduPad][eduPad] : conseil et développement iOS sur la suite logicielle iTooch
     *   [Scimob][scimob] : conseil et développement iOS sur les applications Adele et Tymob
     *   Picapoc : conseil et développement iOS
-</div>
 
 ### Chef de projet Innovation [Capgemini][capgemini] <small>avril ’09 / juin ’10</small>
 
-<a role="button" data-toggle="collapse" href="#detailsCapgemini1">détails</a>
-
-<div class="collapse" id="detailsCapgemini1">
 Au sein de Capgemini Telecom Media Défense :
 
 * Identification, qualification et test de services mobiles innovants pour
@@ -139,19 +144,14 @@ Au sein de Capgemini Telecom Media Défense :
 * Références iOS publiques :
     * [myCashMgmt][myCashMgmt] (pour Natixis)
     * Transform TV (pour Capgemini Consulting)
-</div>
 
 ### Consultant Technique Java [Capgemini][capgemini] <small>décembre ’08 / avril ’09</small>
 
-<a role="button" data-toggle="collapse" href="#detailsCapgemini2">détails</a>
-
-<div class="collapse" id="detailsCapgemini2">
 Au sein de Capgemini Telecom Media Défense :
 
 * Audit de code et de méthodes projet en interne
 * Mise en place de pratiques agiles sur projets (intégration continue et
   formation des équipes à la philosophie agile)
-</div>
 
 ### Responsable Technique Java [Canal+][cplus]/[Capgemini][capgemini] <small>décembre ’05 / décembre ’08</small>
 
@@ -160,9 +160,6 @@ WebServices, IBM Websphere Application Server, Java Frameworks (Spring,
 Hibernate, Maven), Tomcat, Oracle 10, Windows XP, CVS
 {% endcomment %}
 
-<a role="button" data-toggle="collapse" href="#detailsCapgemini3">détails</a>
-
-<div class="collapse" id="detailsCapgemini3">
 En forfait, puis en régie au sein de Canal+ :
 
 *   Le projet Droits et Terminaux comprenait la conception, la réalisation
@@ -175,7 +172,6 @@ En forfait, puis en régie au sein de Canal+ :
     incluant la conception et rédaction des évolutions de l'application, et
     l'encadrement d'une équipe de 5 développeurs dans une organisation de type
     Scrum
-</div>
 
 ### Développeur Java [Capgemini][capgemini] <small>janvier ’05 / décembre ’05</small>
 
@@ -191,9 +187,6 @@ Nom du projet SFR SSO : SSO (via Siteminder by Netegrity)
 PHP, Oracle, Perl, Sun Solaris 8, PVCS
 {% endcomment %}
 
-<a role="button" data-toggle="collapse" href="#detailsCapgemini4">détails</a>
-
-<div class="collapse" id="detailsCapgemini4">
 Au sein de Capgemini Telecom Media Défense :
 
 *   Spécification, conception et réalisation de l'intégration de la solution de
@@ -204,7 +197,6 @@ Au sein de Capgemini Telecom Media Défense :
 *   Réalisation d'une application de consolidation d'indicateurs statistiques
     et d'une interface web de présentation et d'administration pour SFR
 *   Environnement technique Websphere, Weblogic, Tomcat
-</div>
 
 ### Développeur C++ 3D [TGS][tgs] <small>février ’04 / septembre ’04</small>
 
@@ -212,14 +204,10 @@ Au sein de Capgemini Telecom Media Défense :
 C/C++, Visual C++, OpenGL, GLSL, DirectX, GPU assembling, CVS.
 {% endcomment %}
 
-<a role="button" data-toggle="collapse" href="#detailsTGS">détails</a>
-
-<div class="collapse" id="detailsTGS">
 * Stage de fin d'étude
 * Intégration du langage de programmation GPU GLSL dans Open Inventor
 * Développement de démos et investigation sur les possibilités de programmation GPU
 * Environnement technique : C/C++, Visual C++, OpenGL, GLSL, DirectX, assembleur GPU
-</div>
 
 ---
 
@@ -330,15 +318,59 @@ notamment la plateforme edX. Mes cours récents :
 
 ## Contact
 
-<div class="btn-group" role="group" aria-label="...">
-  <a href="javascript:window.location.href=atob('bWFpbHRvOm1pY2thZWxAZmxvY2hsYXkuY29tP3N1YmplY3Q9UHJpc2UgZGUgY29udGFjdCZib2R5PUplIHZldXggdHJhdmFpbGxlciBhdmVjIHZvdXMgOik=')" type="button" class="btn btn-default"><i class="fa fa-envelope" aria-hidden="true"></i> Email</a>
-  <a href="tel:33688597286" type="button" class="btn btn-default"><i class="fa fa-phone" aria-hidden="true"></i> Téléphone</a>
-  <a href="https://fr.linkedin.com/in/mickaelflochlay" type="button" class="btn btn-default"><i class="fa fa-linkedin" aria-hidden="true"></i> LinkedIn</a>
-  <a href="https://twitter.com/dirtyhenry" type="button" class="btn btn-default"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter</a>
-  <a href="https://github.com/dirtyhenry" type="button" class="btn btn-default"><i class="fa fa-github" aria-hidden="true"></i> GitHub</a>
-  <a href="http://stackoverflow.com/users/455016/dirty-henry?tab=profile" type="button" class="btn btn-default"><i class="fa fa-stack-overflow" aria-hidden="true"></i> Stack Overflow</a>
+<div class="level">
+  <div class="level-left"></div>
+  <div class="level-item">
+  <p class="control">
+      <a href="javascript:window.location.href=atob('bWFpbHRvOm1pY2thZWxAZmxvY2hsYXkuY29tP3N1YmplY3Q9UHJpc2UgZGUgY29udGFjdCZib2R5PUplIHZldXggdHJhdmFpbGxlciBhdmVjIHZvdXMgOik=')" class="button">
+        <span class="icon">
+          <i class="fa fa-envelope"></i>
+        </span>
+        <span>Email</span>
+      </a>
+    </p>
+  </div>
+  <div class="level-item">
+  <p class="control">
+    <a href="tel:33688597286" class="button">
+      <span class="icon">
+        <i class="fa fa-phone"></i>
+      </span>
+      <span>Phone</span>
+    </a>
+  </p>
+  </div>
+  <div class="level-item">
+  <p class="control">
+    <a href="https://fr.linkedin.com/in/mickaelflochlay" class="button">
+      <span class="icon">
+        <i class="fa fa-linkedin"></i>
+      </span>
+      <span>LinkedIn</span>
+    </a>
+  </p>
+  </div>
+  <div class="level-item">
+  <p class="control">
+    <a href="https://github.com/dirtyhenry" class="button">
+      <span class="icon">
+        <i class="fa fa-github"></i>
+      </span>
+      <span>GitHub</span>
+    </a>
+  </p>
+  </div>
+  <div class="level-item">
+  <p class="control">
+    <a href="http://stackoverflow.com/users/455016/dirty-henry?tab=profile" class="button">
+      <span class="icon">
+        <i class="fa fa-stack-overflow"></i>
+      </span>
+      <span>Stack Overflow</span>
+    </a>
+  </p>
+  </div>
 </div>
-
 
 [bootstragram]: http://bootstragram.com
 [profile-picture]: /assets/images/cv-photo.png
