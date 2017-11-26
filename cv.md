@@ -70,20 +70,22 @@ Me contacter :
 
 ### CTO [Flâneur][flaneur] <small>depuis janvier ’17</small>
 
+**Application mobile d’échange d’adresses et de guides de voyage entre amis.**
+
 * Migration du back-office de Parse vers Firebase, avec un planning serré car la date de fermeture de Parse approchait.
-* Migration du code *legacy*, provenant de 2 agences web, vers une architecture utilisant le version de MVVM développée par Kickstarter, en Swift.
+* Migration du code *legacy* vers une architecture utilisant le version de MVVM développée par Kickstarter, en Swift.
 * Amélioration de la recherche dans l'app via une intégration temps-réel entre Algolia et Firebase *cloud functions*.
 * Redesign complet de l'interface utilisateur.
 
 ### Founder [Statium][statium] <small>since september ’14</small>
 
-* Statium est une plateforme offrant aux fans de football des statistiques avancées
-inspirées des statistiques avancées des sports américains.
-* Statium a été sélectionné par l'accélérateur de startups Startup42 pour un programme intensif de
+**Plateforme de statistiques avancées de football, inspirées des techniques de *sabermétrie* des sports US.**
+
+* Sélectionné par l'accélérateur de startups Startup42 pour un programme intensif de
 4 mois d'avril à août 2016, durant lequel j'ai beaucoup appris sur tous les aspects non-techniques de l'entreprenariat dans un contexte de startups.
-* Design de modèles de *machine learning* pour évaluer les joueurs de football.
+* Design de modèle de *machine learning* pour évaluer les joueurs de football.
 * Outils de visualisation de données intéractifs pour le web.
-* Statium est désormais un *side-project*: j'ai l'intention de soumettre mon modèle au forum OPTA Pro en Septembre 2018.
+* Le modèle sera soumis au forum OPTA Pro en Septembre 2018.
 
 ### CEO/CTO [Bootstragram][bootstragram] <small>depuis septembre ’14</small>
 

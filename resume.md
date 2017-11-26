@@ -68,7 +68,9 @@ How to contact me:
 ## Experience
 
 ### CTO [Flâneur][flaneur] <small>since january ’17</small>
-** A design-focused mobile travel app to discover and share favorite local spots and travel destinations.
+
+**A design-focused mobile travel app to discover and share favorite local spots and travel destinations.**
+
 * Migrated back-office from Parse to Firebase on a tight schedule as Parse shutdown was approaching.
 * Redesigned software architecture from legacy code to a Kickstarter-inspired MVVM architecture in Swift.
 * Improved search feature using Algolia integration with Firebase cloud functions.
@@ -76,7 +78,8 @@ How to contact me:
 
 ### Founder [Statium][statium] <small>since september ’14</small>
 
-A platform about soccer data analytics, and bringing the techniques of sabermetrics to the soccer world in a precise, design-friendly and engaging way (inspired by US sports' advanced statistics).  
+**A platform about soccer data analytics, and bringing the techniques of sabermetrics to the soccer world in a precise, design-friendly and engaging way (inspired by US sports' advanced statistics).**
+
 * Was selected by the French startup accelerator Startup42 for a 4-month intensive program from April - August 2016 ; gathered invaluable insight into all the non-technical skills required to found a startup.
 * Designed machine learning models to evaluate soccer players.
 * Built data visualization tools for the web.
