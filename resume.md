@@ -68,20 +68,19 @@ How to contact me:
 ## Experience
 
 ### CTO [Flâneur][flaneur] <small>since january ’17</small>
-
-* Migrated the back-office from Parse to Firebase on a tight schedule as Parse shutdown was approaching.
-* Redesigned the software architecture from legacy code (coming from two different web agencies), to a Kickstarter-inspired MVVM architecture in Swift.
-* Improved the search feature using Algolia integration with Firebase cloud functions.
+** A design-focused mobile travel app to discover and share favorite local spots and travel destinations.
+* Migrated back-office from Parse to Firebase on a tight schedule as Parse shutdown was approaching.
+* Redesigned software architecture from legacy code to a Kickstarter-inspired MVVM architecture in Swift.
+* Improved search feature using Algolia integration with Firebase cloud functions.
 * Full-UI redesign implementation.
 
 ### Founder [Statium][statium] <small>since september ’14</small>
 
-* Statium is a platform to provide advanced statistics (inspired by US sports advanced statistics) to soccer fans.
-* Statium was selected by the French startup accelerator Startup42 for a
-4-month intensive program from April - August 2016, during which I had invaluable insight into all the non-technical skills required to found a startup.
-* Designed some machine learning models to evaluate soccer players.
+A platform about soccer data analytics, and bringing the techniques of sabermetrics to the soccer world in a precise, design-friendly and engaging way (inspired by US sports' advanced statistics).  
+* Was selected by the French startup accelerator Startup42 for a 4-month intensive program from April - August 2016 ; gathered invaluable insight into all the non-technical skills required to found a startup.
+* Designed machine learning models to evaluate soccer players.
 * Built data visualization tools for the web.
-* Statium is now a side-project: I intend to submit my model at the OPTA Pro Forum in September 2018.
+* Model will be submitted to the OPTA Pro Forum in September 2018.
 
 ### Founder [Bootstragram][bootstragram] <small>september ’14 / december ’16</small>
 
@@ -91,7 +90,7 @@ other companies with the ultimate objective to fund [Statium][statium].
 Client references:
 
 *   [Deezer][deezer]/[Sourdoreille][sourdoreille]: Facebook widget to create
-    playlists from upcoming festival lineups. The playlists are personalized
+    playlists from upcoming festival lineups. Playlists are personalized
     according to the user's musical taste.
 *   [Culturebox][culturebox]/[Sourdoreille][sourdoreille]: a dynamic and
     visually unique website for the concert web series
@@ -104,25 +103,25 @@ Client references:
 *   [Tabaramounien][tabaramounien]: technical assistance on interactive projets
     for Bordeaux's local government.
 *   [*Petites Musiques de Trains*][trains]: a website and iOS app for a web
-    series that involves discovering local music on a 2-month train journey
+    series that involves discovering local music on train journeys
     (Mexico, Bolivia).
 
 ### CTO [eduPad][eduPad] <small>january ’12 / august ’14</small>
 
 *   Recruited and managed technical team of 5 developers, using agile methods inspired by scrum.
 *   Developed an app factory for eduPad's 100+ apps (iOS & Android).
-*   Designed and developed a scalable back-office to support eduPad's growth from 5k to 250k monthly. average downloads, as well as even more intense peaks during marketing campaigns.
+*   Designed and developed a scalable back-office to support eduPad's growth from 5k to 250k monthly average downloads, as well as even more intense peaks during marketing campaigns.
 *   Over 8.4M apps downloads during my experience at eduPad.
 
 {::options parse_block_html="true" /}
 
 ### Freelance <small>june ’10 / january ’12</small>
 
-* iOS and macOS apps development
+* iOS and macOS app development
 * Web apps and services development
 * Agile mobile consultant
 * Client references:
-    *   [Bandcamp][bandcamp]: web developement (Ruby, JS)
+    *   [Bandcamp][bandcamp]: web development (Ruby, JS)
     *   [X-Prime][xprime]: iOS consulting
     *   [eduPad][eduPad]: iOS consulting
     *   [Scimob][scimob]: iOS consulting
@@ -160,7 +159,7 @@ Within Capgemini Telecom Media Défense:
     policy to tuning the whole system to meet production performance
     requirements (almost real-time order-to-activation flow for a 10M+ clients
     system)
-*   Promoted to Technical Manager of system, coaching 5-person development team
+*   Promoted to Technical Manager, coaching 5-person development team
     in a Scrum-like method, designing updates and drafting technical
     specifications.
 
@@ -220,16 +219,16 @@ Within Capgemini Telecom Media Défense :
 
 I'm by no mean a graphic designer, but I have a basic knowledge of software such
 as Photoshop, Pixelmator, Graphics, Sketch/Zeplin, which allows me to be autonomous
-to export or reproduice with software contents of source files provided by designers.
+to export or reproduce contents of source files provided by designers.
 I can also extend existing brand design guidelines.
 
-Basics of typography rules, for screens and papers.
+Basics of typography rules for screen and paper media.
 
 
 ### Languages
 
 * French: native
-* English: fluent (native English speaking family environment)
+* English: fluent (native English-speaking family environment)
   * TOEIC (2003): 925 points
   * TOEFL (2003): 610 points
 * Spanish: proficient
