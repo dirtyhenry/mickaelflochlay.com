@@ -31,6 +31,9 @@ exclude:
   - excludes.txt
   - node_modules
   - package.json
+  - package-lock.json
+  - LICENSE
+  - README.md
 permalink: /:categories/:title.html
 
 # Build settings

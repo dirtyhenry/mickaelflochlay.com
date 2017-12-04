@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/Bootstragram/bsg-theme
-  revision: f594857ad990889b25c0c96b1be5ae0ff61ff249
+  revision: c5e6d596ce3c9bc3fafa7af486581bcb6c8fbee6
   specs:
     bsg-theme (0.1.0)
       jekyll (~> 3.6)
