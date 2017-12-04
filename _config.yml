@@ -36,6 +36,10 @@ exclude:
   - README.md
 permalink: /:categories/:title.html
 
+# Micro.blog
+microblog_title: "Mick Micro.blog"
+microblog_description: "..."
+
 # Build settings
 markdown: kramdown
 theme: bsg-theme
