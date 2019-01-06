@@ -65,7 +65,9 @@ How to contact me:
 
 ## Experience
 
-### CTO Flâneur <small>since january ’17</small>
+### Software Engineer [Margo Bank][margobank] <small>since May ’18</small>
+
+### CTO Flâneur <small>January ’17 / April ’18</small>
 
 **A design-focused mobile travel app to discover and share favorite local spots and travel destinations.**
 
@@ -74,7 +76,7 @@ How to contact me:
 * Improved search feature using Algolia integration with Firebase cloud functions.
 * Full-UI redesign implementation.
 
-### Founder [Statium][statium] <small>since september ’14</small>
+### Founder [Statium][statium] <small>since September ’14</small>
 
 **A platform about soccer data analytics, and bringing the techniques of sabermetrics to the soccer world in a precise, design-friendly and engaging way (inspired by US sports' advanced statistics).**
 
@@ -83,7 +85,7 @@ How to contact me:
 * Built data visualization tools for the web.
 * Model will be submitted to the OPTA Pro Forum in September 2018.
 
-### Founder [Bootstragram][bootstragram] <small>september ’14 / december ’16</small>
+### Founder [Bootstragram][bootstragram] <small>September ’14 / December ’16</small>
 
 I co-founded Bootstragram in order to provide freelance developer services to
 other companies with the ultimate objective to fund [Statium][statium].
@@ -107,7 +109,7 @@ Client references:
     series that involves discovering local music on train journeys
     (Mexico, Bolivia).
 
-### CTO [eduPad][eduPad] <small>january ’12 / august ’14</small>
+### CTO [eduPad][eduPad] <small>January ’12 / August ’14</small>
 
 *   Recruited and managed technical team of 5 developers, using agile methods inspired by scrum.
 *   Developed an app factory for eduPad's 100+ apps (iOS & Android).
@@ -116,7 +118,7 @@ Client references:
 
 {::options parse_block_html="true" /}
 
-### Freelance <small>june ’10 / january ’12</small>
+### Freelance <small>June ’10 / January ’12</small>
 
 * iOS and macOS app development
 * Web apps and services development
@@ -128,7 +130,7 @@ Client references:
     *   [Scimob][scimob]: iOS consulting
     *   Picapoc: web & iOS consulting
 
-### Innovation & Mobile Project Manager [Capgemini][capgemini] <small>april ’09 / june ’10</small>
+### Innovation & Mobile Project Manager [Capgemini][capgemini] <small>April ’09 / June ’10</small>
 
 Within Capgemini Telecom Media Défense:
 
@@ -140,7 +142,7 @@ Within Capgemini Telecom Media Défense:
     (GDF Suez group), Natixis and the Capgemini Group
 *   Responsible for team's schedule, budget and reports
 
-### Java Consultant [Capgemini][capgemini] <small>december ’08 / april ’09</small>
+### Java Consultant [Capgemini][capgemini] <small>December ’08 / April ’09</small>
 
 Within Capgemini Telecom Media Défense:
 
@@ -149,7 +151,7 @@ Within Capgemini Telecom Media Défense:
   software deliveries
 * Introduced agile philosophy and methods for development teams
 
-### Java Technical Manager [Canal+][cplus]/[Capgemini][capgemini] <small>december ’05 / december ’08</small>
+### Java Technical Manager [Canal+][cplus]/[Capgemini][capgemini] <small>December ’05 / December ’08</small>
 
 *   Client: Canal+ (French premium pay television channel)
 *   Project “Droits et Terminaux” (“Rights and Terminals”): Design and
@@ -164,7 +166,7 @@ Within Capgemini Telecom Media Défense:
     in a Scrum-like method, designing updates and drafting technical
     specifications.
 
-### Java Developer [Capgemini][capgemini] <small>january ’05 / december ’05</small>
+### Java Developer [Capgemini][capgemini] <small>January ’05 / December ’05</small>
 
 Within Capgemini Telecom Media Défense :
 
@@ -179,7 +181,7 @@ Within Capgemini Telecom Media Défense :
     web interface to display and administrate this data during the integration
     of the Netegrity Single Sign On solution into SFR's service platform.
 
-### C++ 3D Developer [TGS][tgs] <small>february ’04 / september ’04</small>
+### C++ 3D Developer [TGS][tgs] <small>February ’04 / September ’04</small>
 
 * Scholar Intership
 * Integrated the GLSL GPU-programming language in Open Inventor
@@ -350,25 +352,26 @@ Intensive two-year course preparing for the competitive entrance examinations to
   </div>
 </div>
 
-[bootstragram]: http://bootstragram.com
-[profile-picture]: /assets/images/cv-photo.png
-[deezer]: http://deezer.com
-[tabaramounien]: http://tabaramounien.com
 [bandcamp]: http://bandcamp.com/
-[xprime]: http://www.x-prime.com/
-[eduPad]: http://www.edupad.com/
-[scimob]: http://www.scimob.net/
-[myCashMgmt]: http://itunes.apple.com/fr/app/mycashmgmt/id338997890?mt=8
-[dr]: http://www.deadrooster.org
-[statium]: http://statium.io
-[sourdoreille]: http://sourdoreille.net
-[newschool]: http://www.new-webschool.com
-[trains]: http://www.petitesmusiquesdetrains.com
-[parisperche]: http://culturebox.francetvinfo.fr/paris-perche/experience/
-[culturebox]: http://culturebox.francetvinfo.fr
-[concerts]: http://sourdoreille.net/sondage-concerts/
+[bootstragram]: http://bootstragram.com
 [capgemini]: https://www.capgemini.com
+[concerts]: http://sourdoreille.net/sondage-concerts/
 [cplus]: http://canalplus.fr
-[tgs]: http://www.vsg3d.com
-[ENSEIRB]: http://www.enseirb-matmeca.fr
+[culturebox]: http://culturebox.francetvinfo.fr
+[deezer]: http://deezer.com
+[dr]: http://www.deadrooster.org
+[eduPad]: http://www.edupad.com/
 [edX]: https://www.edx.org
+[ENSEIRB]: http://www.enseirb-matmeca.fr
+[margobank]: https://margo.com
+[myCashMgmt]: http://itunes.apple.com/fr/app/mycashmgmt/id338997890?mt=8
+[newschool]: http://www.new-webschool.com
+[parisperche]: http://culturebox.francetvinfo.fr/paris-perche/experience/
+[profile-picture]: /assets/images/cv-photo.png
+[scimob]: http://www.scimob.net/
+[sourdoreille]: http://sourdoreille.net
+[statium]: http://statium.io
+[tabaramounien]: http://tabaramounien.com
+[tgs]: http://www.vsg3d.com
+[trains]: http://www.petitesmusiquesdetrains.com
+[xprime]: http://www.x-prime.com/

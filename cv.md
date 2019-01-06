@@ -65,7 +65,7 @@ Me contacter :
 
 ## Expériences
 
-### Software Engineer Margo Bank <small>depuis mai ’18</small>
+### Software Engineer [Margo Bank][margobank] <small>depuis mai ’18</small>
 
 ### CTO Flâneur <small>janvier ’17 / avril ’18</small>
 
@@ -86,7 +86,7 @@ Me contacter :
 * Outils de visualisation de données intéractifs pour le web.
 * Le modèle sera soumis au forum OPTA Pro en Septembre 2018.
 
-### CEO/CTO [Bootstragram][bootstragram] <small>depuis septembre ’14</small>
+### CEO/CTO [Bootstragram][bootstragram] <small>septembre ’14 / décembre ’16</small>
 
 J'ai cofondé Bootstragram (SAS) afin de fournir mes services de développeur en
 freelance, dans l'ultime but de financer [Statium][statium].
@@ -384,6 +384,7 @@ notamment la plateforme edX. Mes cours récents :
 [eduPad]: http://www.edupad.com/
 [edX]: https://www.edx.org
 [ENSEIRB]: http://www.enseirb-matmeca.fr
+[margobank]: https://margo.com
 [myCashMgmt]: http://itunes.apple.com/fr/app/mycashmgmt/id338997890?mt=8
 [newschool]: http://www.new-webschool.com
 [parisperche]: http://culturebox.francetvinfo.fr/paris-perche/experience/
