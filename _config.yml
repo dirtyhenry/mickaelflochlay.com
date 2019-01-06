@@ -23,17 +23,18 @@ twitter_username: dirtyhenry
 github_username:  dirtyhenry
 destination: ./_site
 exclude:
+  - bin
+  - excludes.txt
   - Gemfile
   - Gemfile.lock
   - Gruntfile.js
-  - Rakefile
-  - bower_components
-  - excludes.txt
+  - LICENSE
+  - Makefile
   - node_modules
   - package.json
-  - package-lock.json
-  - LICENSE
   - README.md
+  - vendor
+  - yarn*
 permalink: /:categories/:title.html
 
 # Micro.blog
@@ -47,7 +48,7 @@ theme: bsg-theme
 menu:
   item0:
     title: Resume
-    path: resume.html
+    path: /resume.html
 
 submenus:
   cv:
@@ -86,7 +87,6 @@ submenus:
 sass:
   load_paths:
     - _sass
-    - bower_components/bootstrap-sass/assets/stylesheets
 
 plugins:
   - jekyll-sitemap

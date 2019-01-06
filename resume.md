@@ -36,7 +36,7 @@ extra_js:
           </a>
         </p>
         <p class="control">
-          <a class="button is-active" href="#">
+          <a class="button is-active">
           🇺🇸
           </a>
         </p>
@@ -67,7 +67,7 @@ How to contact me:
 
 ## Experience
 
-### CTO [Flâneur][flaneur] <small>since january ’17</small>
+### CTO Flâneur <small>since january ’17</small>
 
 **A design-focused mobile travel app to discover and share favorite local spots and travel destinations.**
 
@@ -369,9 +369,8 @@ Intensive two-year course preparing for the competitive entrance examinations to
 [parisperche]: http://culturebox.francetvinfo.fr/paris-perche/experience/
 [culturebox]: http://culturebox.francetvinfo.fr
 [concerts]: http://sourdoreille.net/sondage-concerts/
-[capgemini]: https://www.fr.capgemini.com/experts/telecommunications-medias-et-divertissement
+[capgemini]: https://www.capgemini.com
 [cplus]: http://canalplus.fr
 [tgs]: http://www.vsg3d.com
 [ENSEIRB]: http://www.enseirb-matmeca.fr
 [edX]: https://www.edx.org
-[flaneur]: http://www.flaneurapp.com

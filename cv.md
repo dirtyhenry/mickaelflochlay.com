@@ -31,7 +31,7 @@ extra_js:
           </a>
         </p>
         <p class="control">
-          <a class="button is-active" href="#">
+          <a class="button is-active">
           🇫🇷
           </a>
         </p>
@@ -67,8 +67,9 @@ Me contacter :
 
 ## Expériences
 
+### Software Engineer Margo Bank <small>depuis mai ’18</small>
 
-### CTO [Flâneur][flaneur] <small>depuis janvier ’17</small>
+### CTO Flâneur <small>janvier ’17 / avril ’18</small>
 
 **Application mobile d’échange d’adresses et de guides de voyage entre amis.**
 
@@ -77,7 +78,7 @@ Me contacter :
 * Amélioration de la recherche dans l'app via une intégration temps-réel entre Algolia et Firebase *cloud functions*.
 * Redesign complet de l'interface utilisateur.
 
-### Founder [Statium][statium] <small>since september ’14</small>
+### Founder [Statium][statium] <small>depuis septembre ’14</small>
 
 **Plateforme de statistiques avancées de football, inspirées des techniques de *sabermétrie* des sports US.**
 
@@ -87,7 +88,7 @@ Me contacter :
 * Outils de visualisation de données intéractifs pour le web.
 * Le modèle sera soumis au forum OPTA Pro en Septembre 2018.
 
-### CEO/CTO [Bootstragram][bootstragram] <small>depuis septembre ’14</small>
+### CEO/CTO [Bootstragram][bootstragram] <small>depuis septembre ’14</small>
 
 J'ai cofondé Bootstragram (SAS) afin de fournir mes services de développeur en
 freelance, dans l'ultime but de financer [Statium][statium].
@@ -98,7 +99,7 @@ Références clients :
     automatique sous forme de widget Facebook
 *   [Culturebox][culturebox]/[Sourdoreille][sourdoreille] : réalisation du site
     pour la web-série de concerts [*Les Contes du Paris Perché*][parisperche]
-*   [Flâneur][flaneur] : migration du back-office d'une application iOS de Parse
+*   Flâneur : migration du back-office d'une application iOS de Parse
     vers Firebase
 *   [Sourdoreille][sourdoreille] : réalisation du site web de sondage décalé
     [*Les Concerts, ce serait mieux sans*][concerts]
@@ -144,7 +145,7 @@ Au sein de Capgemini Telecom Media Défense :
 * Encadrement d'une équipe de 2 à 6 personnes
 * Suivi budgétaire de tous ces projets
 * Références iOS publiques :
-    * [myCashMgmt][myCashMgmt] (pour Natixis)
+    * myCashMgmt (pour Natixis)
     * Transform TV (pour Capgemini Consulting)
 
 ### Consultant Technique Java [Capgemini][capgemini] <small>décembre ’08 / avril ’09</small>
@@ -374,26 +375,25 @@ notamment la plateforme edX. Mes cours récents :
   </div>
 </div>
 
-[bootstragram]: http://bootstragram.com
-[profile-picture]: /assets/images/cv-photo.png
-[deezer]: http://deezer.com
-[tabaramounien]: http://tabaramounien.com
 [bandcamp]: http://bandcamp.com/
-[xprime]: http://www.x-prime.com/
-[eduPad]: http://www.edupad.com/
-[scimob]: http://www.scimob.net/
-[myCashMgmt]: http://itunes.apple.com/fr/app/mycashmgmt/id338997890?mt=8
-[dr]: http://www.deadrooster.org
-[statium]: http://statium.io
-[sourdoreille]: http://sourdoreille.net
-[newschool]: http://www.new-webschool.com
-[trains]: http://www.petitesmusiquesdetrains.com
-[parisperche]: http://culturebox.francetvinfo.fr/paris-perche/experience/
-[culturebox]: http://culturebox.francetvinfo.fr
+[bootstragram]: http://bootstragram.com
+[capgemini]: https://www.capgemini.com
 [concerts]: http://sourdoreille.net/sondage-concerts/
-[capgemini]: https://www.fr.capgemini.com/experts/telecommunications-medias-et-divertissement
 [cplus]: http://canalplus.fr
-[tgs]: http://www.vsg3d.com
-[ENSEIRB]: http://www.enseirb-matmeca.fr
+[culturebox]: http://culturebox.francetvinfo.fr
+[deezer]: http://deezer.com
+[dr]: http://www.deadrooster.org
+[eduPad]: http://www.edupad.com/
 [edX]: https://www.edx.org
-[flaneur]: http://www.flaneurapp.com
+[ENSEIRB]: http://www.enseirb-matmeca.fr
+[myCashMgmt]: http://itunes.apple.com/fr/app/mycashmgmt/id338997890?mt=8
+[newschool]: http://www.new-webschool.com
+[parisperche]: http://culturebox.francetvinfo.fr/paris-perche/experience/
+[profile-picture]: /assets/images/cv-photo.png
+[scimob]: http://www.scimob.net/
+[sourdoreille]: http://sourdoreille.net
+[statium]: http://statium.io
+[tabaramounien]: http://tabaramounien.com
+[tgs]: http://www.vsg3d.com
+[trains]: http://www.petitesmusiquesdetrains.com
+[xprime]: https://www.mirumagency.fr/

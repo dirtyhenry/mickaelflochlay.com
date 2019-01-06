@@ -17,10 +17,8 @@
   },
   "homepage": "https://github.com/dirtyhenry/mickaelflochlay.com#readme",
   "devDependencies": {
-    "grunt": "^1.0.1",
-    "grunt-contrib-copy": "^1.0.0",
     "bigfoot": "git+https://github.com/lemonmade/bigfoot.git",
-    "bulma": "^0.6.0",
+    "bulma": "^0.6.2",
     "font-awesome": "^4.7.0"
   }
 }
