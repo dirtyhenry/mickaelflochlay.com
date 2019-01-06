@@ -17,4 +17,4 @@ test:
 deploy:
 	./bin/ci-build.sh
 	# Add --dry-run for debugging
-	sh "rsync --archive --compress --verbose --delete --exclude-from=excludes.txt ~/Developer/Projects/Personal/Code/mickaelflochlay.com/_site dirtyhenry@emmett:~/work/websites/mickaelflochlay.com/"
+	sh "rsync --archive --compress --verbose --delete --exclude-from=excludes.txt ./_site dirtyhenry@emmett:~/work/websites/mickaelflochlay.com/"
