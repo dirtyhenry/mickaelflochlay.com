@@ -1,21 +1,16 @@
 {
   "name": "mickaelflochlay.com",
   "version": "1.0.0",
-  "description": "",
-  "main": "Gruntfile.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dirtyhenry/mickaelflochlay.com.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Mickaël Floc’hlay",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/dirtyhenry/mickaelflochlay.com/issues"
   },
-  "homepage": "https://github.com/dirtyhenry/mickaelflochlay.com#readme",
+  "homepage": "https://mickaelflochlay.com",
   "devDependencies": {
     "bigfoot": "git+https://github.com/lemonmade/bigfoot.git",
     "bulma": "^0.6.2",

@@ -6,7 +6,6 @@ install:
 	yarn install
 
 build:
-	yarn grunt
 	bundle exec jekyll build
 
 run:

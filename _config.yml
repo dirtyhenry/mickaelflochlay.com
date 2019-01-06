@@ -27,7 +27,6 @@ exclude:
   - excludes.txt
   - Gemfile
   - Gemfile.lock
-  - Gruntfile.js
   - LICENSE
   - Makefile
   - node_modules
