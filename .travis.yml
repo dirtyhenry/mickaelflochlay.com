@@ -2,9 +2,11 @@ language: ruby
 rvm:
   - 2.6.3
 
-# Assume bundler is being used, therefore
-# the `install` step will run `bundle install` by default.
-script: ./bin/ci-build.sh
+install:
+  - make install
+
+script:
+  - ./bin/ci-build.sh
 
 env:
   global:
