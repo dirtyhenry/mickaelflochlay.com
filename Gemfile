@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 ruby "2.6.3"
 
-gem "bsg-theme", git: "https://github.com/Bootstragram/bsg-theme"
+gem "kids", git: "https://github.com/dirtyhenry/kids.git", branch: 'master'
 gem "jekyll"
 gem "jekyll-sitemap"
 gem "html-proofer"

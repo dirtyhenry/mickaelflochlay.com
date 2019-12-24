@@ -20,7 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mickaelflochlay.com.dev" # the base hostname & protocol for your site
 twitter_username: dirtyhenry
-github_username:  dirtyhenry
+github_username: dirtyhenry
 destination: ./_site
 exclude:
   - bin
@@ -42,7 +42,7 @@ microblog_description: "..."
 
 # Build settings
 markdown: kramdown
-theme: bsg-theme
+theme: kids
 
 menu:
   item0:
@@ -53,35 +53,35 @@ submenus:
   cv:
     item0:
       title: Expériences
-      path: '#experienceAnchor'
+      path: "#experienceAnchor"
     item1:
       title: Compétences
-      path: '#skillsAnchor'
+      path: "#skillsAnchor"
     item2:
       title: Formation
-      path: '#trainingAnchor'
+      path: "#trainingAnchor"
     item3:
       title: Loisirs
-      path: '#miscAnchor'
+      path: "#miscAnchor"
     item4:
       title: Contact
-      path: '#contactAnchor'
+      path: "#contactAnchor"
   resume:
     item0:
       title: Experience
-      path: '#experienceAnchor'
+      path: "#experienceAnchor"
     item1:
       title: Skills
-      path: '#skillsAnchor'
+      path: "#skillsAnchor"
     item2:
       title: Education
-      path: '#trainingAnchor'
+      path: "#trainingAnchor"
     item3:
       title: Interests
-      path: '#miscAnchor'
+      path: "#miscAnchor"
     item4:
       title: Contact
-      path: '#contactAnchor'
+      path: "#contactAnchor"
 
 sass:
   load_paths:

@@ -1,9 +1,12 @@
 GIT
-  remote: https://github.com/Bootstragram/bsg-theme
-  revision: e686631c17628dbd3e8f5c176ef036f41c90c8c5
+  remote: https://github.com/dirtyhenry/kids.git
+  revision: d3df98fb3b09fb58cb8b93689510ed348d5804dd
+  branch: master
   specs:
-    bsg-theme (0.1.0)
-      jekyll (~> 3.6)
+    kids (1.0.0)
+      jekyll (>= 3.5, < 5.0)
+      jekyll-feed (~> 0.9)
+      jekyll-seo-tag (~> 2.1)
 
 GEM
   remote: https://rubygems.org/
@@ -51,8 +54,12 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 4)
       safe_yaml (~> 1.0)
+    jekyll-feed (0.13.0)
+      jekyll (>= 3.7, < 5.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
+    jekyll-seo-tag (2.6.1)
+      jekyll (>= 3.3, < 5.0)
     jekyll-sitemap (1.2.0)
       jekyll (~> 3.3)
     jekyll-watch (2.1.2)
@@ -94,10 +101,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bsg-theme!
   html-proofer
   jekyll
   jekyll-sitemap
+  kids!
 
 RUBY VERSION
    ruby 2.6.3p62
