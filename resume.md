@@ -67,6 +67,8 @@ How to contact me:
 
 ### Software Engineer [Margo Bank][margobank] <small>since May ’18</small>
 
+**A new bank for Small & Medium-sized Businesses.**
+
 ### CTO Flâneur <small>January ’17 / April ’18</small>
 
 **A design-focused mobile travel app to discover and share favorite local spots and travel destinations.**

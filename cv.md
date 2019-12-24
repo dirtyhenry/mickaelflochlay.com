@@ -67,6 +67,8 @@ Me contacter :
 
 ### Software Engineer [Margo Bank][margobank] <small>depuis mai ’18</small>
 
+**Une nouvelle banque pour les entreprises.**
+
 ### CTO Flâneur <small>janvier ’17 / avril ’18</small>
 
 **Application mobile d’échange d’adresses et de guides de voyage entre amis.**
