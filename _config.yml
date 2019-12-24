@@ -24,16 +24,11 @@ github_username: dirtyhenry
 destination: ./_site
 exclude:
   - bin
-  - excludes.txt
   - Gemfile
   - Gemfile.lock
   - LICENSE
   - Makefile
-  - node_modules
-  - package.json
   - README.md
-  - vendor
-  - yarn*
 permalink: /:categories/:title.html
 
 # Micro.blog
@@ -89,3 +84,6 @@ sass:
 
 plugins:
   - jekyll-sitemap
+
+header_pages:
+  - resume/index.html
