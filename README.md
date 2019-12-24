@@ -4,7 +4,7 @@
 
 ## Installation
 
-Pre-requisites are to have `bundler` and `yarn` installed.
+Pre-requisites are to have `bundler` installed.
 Then:
 
     make install
