@@ -29,7 +29,7 @@ submenu: cv
 - Amélioration de la recherche dans l'app via une intégration temps-réel entre Algolia et Firebase _cloud functions_.
 - Redesign complet de l'interface utilisateur.
 
-### Founder [Statium][statium] <small>depuis septembre ’14</small>
+### Founder Statium <small>depuis septembre ’14</small>
 
 **Plateforme de statistiques avancées de football, inspirées des techniques de _sabermétrie_ des sports US.**
 
@@ -42,7 +42,7 @@ submenu: cv
 ### CEO/CTO [Bootstragram][bootstragram] <small>septembre ’14 / décembre ’16</small>
 
 J'ai cofondé Bootstragram (SAS) afin de fournir mes services de développeur en
-freelance, dans l'ultime but de financer [Statium][statium].
+freelance, dans l'ultime but de financer Statium.
 
 Références clients :
 
@@ -58,7 +58,7 @@ Références clients :
   interactifs pour la semaine du numérique de la mairie de Bordeaux
 - [Tabaramounien][tabaramounien]/[N/ËW][newschool] : création d'un éditeur de
   diaporama en SVG à destination des élèves de l'école N/ËW
-- [_Petites Musiques de Trains_][trains] : réalisation du site web et de
+- *Petites Musiques de Trains* : réalisation du site web et de
   l'application iOS de cette web-série de voyages
 
 ### CTO [eduPad][edupad] <small>janvier ’12 / août ’14</small>
@@ -81,7 +81,7 @@ Références clients :
   - [Bandcamp][bandcamp] : développement web, Ruby et JavaScript
   - [X-Prime][xprime] : conseil iOS
   - [eduPad][edupad] : conseil et développement iOS sur la suite logicielle iTooch
-  - [Scimob][scimob] : conseil et développement iOS sur les applications Adele et Tymob
+  - Scimob : conseil et développement iOS sur les applications Adele et Tymob
   - Picapoc : conseil et développement iOS
 
 ### Chef de projet Innovation [Capgemini][capgemini] <small>avril ’09 / juin ’10</small>
@@ -322,10 +322,7 @@ notamment la plateforme edX. Mes cours récents :
 [newschool]: http://www.new-webschool.com
 [parisperche]: http://culturebox.francetvinfo.fr/paris-perche/experience/
 [profile-picture]: /assets/images/cv-photo.png
-[scimob]: http://www.scimob.net/
 [sourdoreille]: http://sourdoreille.net
-[statium]: http://statium.io
 [tabaramounien]: http://tabaramounien.com
 [tgs]: http://www.vsg3d.com
-[trains]: http://www.petitesmusiquesdetrains.com
 [xprime]: https://www.mirumagency.fr/

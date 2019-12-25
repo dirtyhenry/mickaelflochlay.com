@@ -29,7 +29,7 @@ submenu: resume
 - Improved search feature using Algolia integration with Firebase cloud functions.
 - Full-UI redesign implementation.
 
-### Founder [Statium][statium] <small>since September ’14</small>
+### Founder Statium <small>since September ’14</small>
 
 **A platform about soccer data analytics, and bringing the techniques of sabermetrics to the soccer world in a precise, design-friendly and engaging way (inspired by US sports' advanced statistics).**
 
@@ -41,7 +41,7 @@ submenu: resume
 ### Founder [Bootstragram][bootstragram] <small>September ’14 / December ’16</small>
 
 I co-founded Bootstragram in order to provide freelance developer services to
-other companies with the ultimate objective to fund [Statium][statium].
+other companies with the ultimate objective to fund Statium.
 
 Client references:
 
@@ -58,7 +58,7 @@ Client references:
   creating slide presentations.
 - [Tabaramounien][tabaramounien]: technical assistance on interactive projets
   for Bordeaux's local government.
-- [_Petites Musiques de Trains_][trains]: a website and iOS app for a web
+- _Petites Musiques de Trains_: a website and iOS app for a web
   series that involves discovering local music on train journeys
   (Mexico, Bolivia).
 
@@ -80,7 +80,7 @@ Client references:
   - [Bandcamp][bandcamp]: web development (Ruby, JS)
   - [X-Prime][xprime]: iOS consulting
   - [eduPad][edupad]: iOS consulting
-  - [Scimob][scimob]: iOS consulting
+  - Scimob: iOS consulting
   - Picapoc: web & iOS consulting
 
 ### Innovation & Mobile Project Manager [Capgemini][capgemini] <small>April ’09 / June ’10</small>
@@ -300,10 +300,7 @@ Intensive two-year course preparing for the competitive entrance examinations to
 [newschool]: http://www.new-webschool.com
 [parisperche]: http://culturebox.francetvinfo.fr/paris-perche/experience/
 [profile-picture]: /assets/images/cv-photo.png
-[scimob]: http://www.scimob.net/
 [sourdoreille]: http://sourdoreille.net
-[statium]: http://statium.io
 [tabaramounien]: http://tabaramounien.com
 [tgs]: http://www.vsg3d.com
-[trains]: http://www.petitesmusiquesdetrains.com
 [xprime]: http://www.x-prime.com/
