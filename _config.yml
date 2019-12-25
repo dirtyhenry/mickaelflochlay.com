@@ -69,4 +69,4 @@ plugins:
   - jekyll-sitemap
 
 header_pages:
-  - resume/index.html
+  - resume.md
