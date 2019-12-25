@@ -1,5 +1,7 @@
 ![](https://mickaelflochlay.com/assets/images/mick-square.png)
 
+![Travis CI Status](https://img.shields.io/travis/dirtyhenry/mickaelflochlay.com?style=for-the-badge)
+
 # mickaelflochlay.com
 
 ## Installation
