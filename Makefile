@@ -1,9 +1,8 @@
 clean:
-	rm -rf _site node_modules
+	rm -rf _site .sass-cache
 
 install:
 	bundle install
-	yarn install
 
 build:
 	bundle exec jekyll build
@@ -16,4 +15,4 @@ test:
 
 deploy:
 	# Add --dry-run for debugging
-	rsync --archive --compress --verbose --delete --exclude-from=excludes.txt ./_site dirtyhenry@emmett:~/work/websites/mickaelflochlay.com/
+	rsync --archive --compress --verbose --delete ./_site dirtyhenry@emmett:~/work/websites/mickaelflochlay.com/

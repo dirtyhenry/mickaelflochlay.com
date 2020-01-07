@@ -16,4 +16,4 @@ universelle basée sur les images permet à tous les voyageurs de se faire
 comprendre rapidement, partout, et par n’importe qui. Avec l’application Just
 Show It, montrez ce que vous ne savez pas dire !
 
-*Cette app n'est plus disponible sur l'App Store.*
+_Cette app n'est plus disponible sur l'App Store._
