@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "iOS Senior Developer & Agile Manager"
+nav_title: "Resume"
 description: >
   My detailed résumé. I'm a Paris-based full-stack iOS and web developer
   and I am available to provide freelance developer services.
@@ -9,6 +10,7 @@ opengraph:
   image: /assets/images/mick-square.png
 multilangUUID: 9FD6B42F-2A1D-42D4-8BA5-4273707CD9EC
 submenu: resume
+permalink: resume.html
 ---
 
 [🇫🇷]({{ "cv.html" | prepend: full_base_url }})
