@@ -314,7 +314,7 @@ notamment la plateforme edX. Mes cours récents :
 [culturebox]: http://culturebox.francetvinfo.fr
 [deezer]: http://deezer.com
 [dr]: http://www.deadrooster.org
-[edupad]: http://www.edupad.com/
+[edupad]: https://www.edupad.com/
 [edx]: https://www.edx.org
 [enseirb]: http://www.enseirb-matmeca.fr
 [margobank]: https://margo.com
