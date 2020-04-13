@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+// Define defaults for each variable.
+// http://www.colourlovers.com/palette/149132/Blue_Hippopotamus
+$rain: #bee2e7;
+$windy-day: #4f57aa;
+$dark-motion: #454857;
+$silver-lining: #72818b;
+$velvet-pink: #8f002e;
+
+$text-color: $dark-motion;
+$accent-color: $windy-day;
+$accent-inverted: $rain;
+$accent-inverted-active: $silver-lining;
+
+// Import partials.
+@import "kids/base", "kids/images", "kids/layout", "kids/links",
+  "kids/typography";

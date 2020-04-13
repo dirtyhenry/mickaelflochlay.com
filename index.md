@@ -12,6 +12,6 @@ I like music, football (aka soccer) and developing.
 ## Come and say hi.
 
 - [Bootstragram](https://bootstragram.com) for professional/development things
-- [Dead Rooster](http://blog.deadrooster.org) for music/movies/cultural things
+- [Dead Rooster](https://deadrooster.org) for music/movies/cultural things
 
 Have a good one.

@@ -1,4 +1,7 @@
 title: "Mick F"
+repository:
+  url: https://github.com/dirtyhenry/mickaelflochlay.com
+  name: dirtyhenry/mickaelflochlay.com
 description: > # this means to ignore newlines until "baseurl:"
   Mick F’s personal website.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -6,12 +9,13 @@ url: "https://mickaelflochlay.com" # the base hostname & protocol for your site
 twitter_username: dirtyhenry
 github_username: dirtyhenry
 exclude:
-  - bin
   - Gemfile
   - Gemfile.lock
   - LICENSE
   - Makefile
   - README.md
+  - bin
+  - yarn.lock
 permalink: /:categories/:title.html
 
 # Micro.blog
