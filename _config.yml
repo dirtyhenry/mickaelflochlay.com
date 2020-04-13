@@ -1,4 +1,7 @@
 title: "Mick F"
+repository:
+  url: https://github.com/dirtyhenry/mickaelflochlay.com
+  name: dirtyhenry/mickaelflochlay.com
 description: > # this means to ignore newlines until "baseurl:"
   Mick F’s personal website.
 baseurl: "" # the subpath of your site, e.g. /blog
