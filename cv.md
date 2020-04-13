@@ -313,7 +313,7 @@ notamment la plateforme edX. Mes cours récents :
 [cplus]: http://canalplus.fr
 [culturebox]: http://culturebox.francetvinfo.fr
 [deezer]: http://deezer.com
-[dr]: http://www.deadrooster.org
+[dr]: https://deadrooster.org
 [edupad]: https://www.edupad.com/
 [edx]: https://www.edx.org
 [enseirb]: http://www.enseirb-matmeca.fr

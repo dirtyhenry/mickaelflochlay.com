@@ -6,4 +6,4 @@ categories: microblog
 sitemap: false
 ---
 
-Où je suis un vieux con qui arrête les conneries pour de bon. La vie est trop courte pour écouter Solange ou Vianney. Il vaut mieux ré-écouter du Sinéad ou se délecter d'un bon vieux jambon-beurre. [Lire et écouter](http://blog.deadrooster.org/compile-ete-2017-face-b.html).
+Où je suis un vieux con qui arrête les conneries pour de bon. La vie est trop courte pour écouter Solange ou Vianney. Il vaut mieux ré-écouter du Sinéad ou se délecter d'un bon vieux jambon-beurre. [Lire et écouter](https://deadrooster.org/bilan-2017/).
