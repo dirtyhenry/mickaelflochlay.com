@@ -9,12 +9,13 @@ url: "https://mickaelflochlay.com" # the base hostname & protocol for your site
 twitter_username: dirtyhenry
 github_username: dirtyhenry
 exclude:
-  - bin
   - Gemfile
   - Gemfile.lock
   - LICENSE
   - Makefile
   - README.md
+  - bin
+  - yarn.lock
 permalink: /:categories/:title.html
 
 # Micro.blog
