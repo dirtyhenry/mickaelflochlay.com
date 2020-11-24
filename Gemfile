@@ -1,11 +1,16 @@
-source "https://rubygems.org"
-ruby "2.6.3"
+# frozen_string_literal: true
 
-gem "kids", git: "https://github.com/dirtyhenry/kids.git", branch: 'master'
-gem "jekyll"
-gem "html-proofer"
+source 'https://rubygems.org'
+ruby '2.6.3'
+
+gem 'html-proofer'
+gem 'jekyll'
+gem 'kids', git: 'https://github.com/dirtyhenry/kids.git', branch: 'master'
 
 group :jekyll_plugins do
+  gem 'buckygem',
+      git: 'https://github.com/dirtyhenry/buckygem.git',
+      branch: 'master'
   gem 'jekyll-assets',
       git: 'https://github.com/envygeeks/jekyll-assets',
       branch: 'master'
@@ -20,3 +25,6 @@ end
 # group :jekyll_plugins do
 #   gem "jekyll-github-metadata", "~> 1.0"
 # end
+
+# Ruby linter
+gem 'rubocop', require: false
