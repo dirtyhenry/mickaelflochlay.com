@@ -8,11 +8,24 @@ $dark-motion: #454857;
 $silver-lining: #72818b;
 $velvet-pink: #8f002e;
 
+$background-color: #fff;
 $text-color: $dark-motion;
+
+$background-color-dark: #333;
+$text-color-dark: #fff;
+
+$text-color-subdued: #666;
+$text-color-subdued-dark: #aaa;
+
 $accent-color: $windy-day;
+$accent-color-dark: #99d;
+
 $accent-inverted: $rain;
+$accent-inverted-dark: #333;
+
 $accent-inverted-active: $silver-lining;
+$accent-inverted-active-dark: #666;
 
 // Import partials.
-@import "kids/base", "kids/images", "kids/layout", "kids/links",
-  "kids/typography";
+@import "kids/base", "kids/images", "kids/index", "kids/layout", "kids/links",
+  "kids/related_pages", "kids/typography";
