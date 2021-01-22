@@ -16,7 +16,7 @@ submenu: cv
 
 ## Expériences
 
-### Software Engineer [Margo Bank][margobank] <small>depuis mai ’18</small>
+### Software Engineer [Memo Bank][memobank] <small>depuis mai ’18</small>
 
 **Une nouvelle banque pour les entreprises.**
 
@@ -79,7 +79,7 @@ Références clients :
 - Consultant en informatique avec expertise en méthodes agiles (Lean, Scrum) et en mobilité
 - Références clients :
   - [Bandcamp][bandcamp] : développement web, Ruby et JavaScript
-  - [X-Prime][xprime] : conseil iOS
+  - [X-Prime (désormais Mirum)][xprime] : conseil iOS
   - [eduPad][edupad] : conseil et développement iOS sur la suite logicielle iTooch
   - Scimob : conseil et développement iOS sur les applications Adele et Tymob
   - Picapoc : conseil et développement iOS
@@ -296,7 +296,7 @@ notamment la plateforme edX. Mes cours récents :
   </div>
   <div class="level-item">
   <p class="control">
-    <a href="http://stackoverflow.com/users/455016/dirty-henry?tab=profile" class="button">
+    <a href="https://stackoverflow.com/users/455016/dirty-henry?tab=profile" class="button">
       <span class="icon">
         <i class="fa fa-stack-overflow"></i>
       </span>
@@ -306,23 +306,23 @@ notamment la plateforme edX. Mes cours récents :
   </div>
 </div>
 
-[bandcamp]: http://bandcamp.com/
-[bootstragram]: http://bootstragram.com
+[bandcamp]: https://bandcamp.com/
+[bootstragram]: https://bootstragram.com
 [capgemini]: https://www.capgemini.com
-[concerts]: http://sourdoreille.net/sondage-concerts/
-[cplus]: http://canalplus.fr
+[concerts]: https://sourdoreille.net/sondage-concerts/
+[cplus]: https://www.canalplus.com/
 [culturebox]: http://culturebox.francetvinfo.fr
-[deezer]: http://deezer.com
+[deezer]: https://www.deezer.com/
 [dr]: https://deadrooster.org
-[edupad]: https://www.edupad.com/
+[edupad]: https://www.edupad.com/itooch/education-apps-tablets-smartphones/
 [edx]: https://www.edx.org
-[enseirb]: http://www.enseirb-matmeca.fr
-[margobank]: https://margo.com
+[enseirb]: https://www.enseirb-matmeca.fr
+[memobank]: https://memo.bank
 [mycashmgmt]: http://itunes.apple.com/fr/app/mycashmgmt/id338997890?mt=8
 [newschool]: http://www.new-webschool.com
 [parisperche]: http://culturebox.francetvinfo.fr/paris-perche/experience/
 [profile-picture]: /assets/images/cv-photo.png
-[sourdoreille]: http://sourdoreille.net
+[sourdoreille]: https://sourdoreille.net
 [tabaramounien]: http://tabaramounien.com
-[tgs]: http://www.vsg3d.com
+[tgs]: https://www.thermofisher.com/fr/fr/home/industrial/electron-microscopy/electron-microscopy-instruments-workflow-solutions/3d-visualization-analysis-software.html
 [xprime]: https://www.mirumagency.fr/
