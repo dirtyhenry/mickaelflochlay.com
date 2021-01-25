@@ -18,7 +18,7 @@ permalink: resume.html
 
 ## Experience
 
-### Software Engineer [Margo Bank][margobank] <small>since May ’18</small>
+### Software Engineer [Memo Bank][memobank] <small>since May ’18</small>
 
 **A new bank for Small & Medium-sized Businesses.**
 
@@ -80,7 +80,7 @@ Client references:
 - Agile mobile consultant
 - Client references:
   - [Bandcamp][bandcamp]: web development (Ruby, JS)
-  - [X-Prime][xprime]: iOS consulting
+  - [X-Prime (now Mirum)][xprime]: iOS consulting
   - [eduPad][edupad]: iOS consulting
   - Scimob: iOS consulting
   - Picapoc: web & iOS consulting
@@ -276,7 +276,7 @@ Intensive two-year course preparing for the competitive entrance examinations to
   </div>
   <div class="level-item">
   <p class="control">
-    <a href="http://stackoverflow.com/users/455016/dirty-henry?tab=profile" class="button">
+    <a href="https://stackoverflow.com/users/455016/dirty-henry?tab=profile" class="button">
       <span class="icon">
         <i class="fa fa-stack-overflow"></i>
       </span>
@@ -286,23 +286,23 @@ Intensive two-year course preparing for the competitive entrance examinations to
   </div>
 </div>
 
-[bandcamp]: http://bandcamp.com/
-[bootstragram]: http://bootstragram.com
+[bandcamp]: https://bandcamp.com/
+[bootstragram]: https://bootstragram.com
 [capgemini]: https://www.capgemini.com
-[concerts]: http://sourdoreille.net/sondage-concerts/
-[cplus]: http://canalplus.fr
+[concerts]: https://sourdoreille.net/sondage-concerts/
+[cplus]: https://www.canalplus.com/
 [culturebox]: http://culturebox.francetvinfo.fr
-[deezer]: http://deezer.com
+[deezer]: https://www.deezer.com/
 [dr]: https://deadrooster.org
-[edupad]: https://www.edupad.com/
+[edupad]: https://www.edupad.com/itooch/education-apps-tablets-smartphones/
 [edx]: https://www.edx.org
-[enseirb]: http://www.enseirb-matmeca.fr
-[margobank]: https://margo.com
+[enseirb]: https://www.enseirb-matmeca.fr
+[memobank]: https://memo.bank
 [mycashmgmt]: http://itunes.apple.com/fr/app/mycashmgmt/id338997890?mt=8
 [newschool]: http://www.new-webschool.com
 [parisperche]: http://culturebox.francetvinfo.fr/paris-perche/experience/
 [profile-picture]: /assets/images/cv-photo.png
-[sourdoreille]: http://sourdoreille.net
+[sourdoreille]: https://sourdoreille.net
 [tabaramounien]: http://tabaramounien.com
-[tgs]: http://www.vsg3d.com
-[xprime]: http://www.x-prime.com/
+[tgs]: https://www.thermofisher.com/fr/fr/home/industrial/electron-microscopy/electron-microscopy-instruments-workflow-solutions/3d-visualization-analysis-software.html
+[xprime]: https://www.mirumagency.fr/
