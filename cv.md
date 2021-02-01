@@ -11,6 +11,8 @@ multilangUUID: 9FD6B42F-2A1D-42D4-8BA5-4273707CD9EC
 submenu: cv
 ---
 
+# Mon CV
+
 [🇺🇸]({{ "resume.html" | prepend: full_base_url }})
 [PDF]({{ "assets/pdf/cv-FR-mickael-flochlay-A4.pdf" | prepend: full_base_url }})
 
