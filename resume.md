@@ -13,6 +13,8 @@ submenu: resume
 permalink: resume.html
 ---
 
+# My resume
+
 [🇫🇷]({{ "cv.html" | prepend: full_base_url }})
 [PDF]({{ "assets/pdf/cv-EN-mickael-flochlay-Letter.pdf" | prepend: full_base_url }})
 
